@@ -47,7 +47,7 @@ Logically the next step is URL address changing.
 
 Some things to note about this level are that the image area map is hidden away within a font tag as seen below. This is also the first time hints have been presented and I will link them within the [hints section](#hints "Hints Section") of this document.
 
-```html:
+```html
 <font color="#FFFFFF">
     <map name="no">
       <area shape="rect" coords="161,350,189,400" onmouseover="returnTruth();return true;" href="../false">
@@ -63,45 +63,55 @@ Some things to note about this level are that the image area map is hidden away 
 </font>
 ```
 
+### [Back To Top](#not-pron "Top Of Page")
+
 ---
 
 ## Level 3
-
 
 ---
 
 ## Hints
 
-* Level 1
-If this level is too hard, give up and go away. No don't!
+### [Level 1](#level-1 "Level 1 Notes")
+
+* If this level is too hard, give up and go away. No don't!
 Where do you open a door? Click that part in the picture!
 
-* Level 2
-The popup is telling you to trick it. Maybe use something else than your mouse to get rid of it, so you get the link that it is covering!
+### [Level 2](#level-2 "Level 2 Notes")
 
-* Level 3
-Stop being negative, will ya? Stop trying to click something, there is nothing! Read the address carefully. What can you "turn on"?
+* The popup is telling you to trick it. Maybe use something else than your mouse to get rid of it, so you get the link that it is covering!
 
-* Level 4
-Is anything dark here? Light it maybe? How? Got programs for that? Do you see something now? What sort of code could it be?
+### [Level 3](#level-3 "Level 3 Notes")
 
-* Level 5
-Carefully read the URL. There are at least 2 things that can help you.
+* Stop being negative, will ya? Stop trying to click something, there is nothing! Read the address carefully. What can you "turn on"?
+
+### [Level 4](#level-4 "Level 4 Notes")
+
+* Is anything dark here? Light it maybe? How? Got programs for that? Do you see something now? What sort of code could it be?
+
+### [Level 5](#level-5 "Level 5 Notes")
+
+* Carefully read the URL. There are at least 2 things that can help you.
 Found the right thing in google? Stop thinking too difficult, just need 2 words for Username/Password!
 
-* Level 6
-Make up your mind about the "source code"!
+### [Level 6](#level-6 "Level 6 Notes")
+
+* Make up your mind about the "source code"!
 Ever heard of ASCII Code?
 
-* Level 7
-Carefully read the URL. It's telling you what to do.
+### [Level 7](#level-7 "Level 7 Notes")
 
-* Level 8
-Second song? Which one could it be?
+* Carefully read the URL. It's telling you what to do.
+
+### [Level 8](#level-8 "Level 8 Notes")
+
+* Second song? Which one could it be?
 Who (or what) is Jay Pack? Say it loud!
 
-* Level 9 - 81
-Now you are on your own. No more help!
+[Level 9 - 81](#level-9 "Level 9 Notes")
+
+* Now you are on your own. No more help!
 But keep in mind that all levels are different from each other!
 It's easy to find cheats on the internet, but from the moment of your first cheating on, the whole fun is gone, stay strong!
 Don't brag with your level progress, it makes no sense.
