@@ -9,6 +9,7 @@
 * [Level 4](#level-4 "Level 4 Section")
 * [Level 5](#level-5 "Level 5 Section")
 * [Level 6](#level-6 "Level 6 Section")
+* [Level 7](#level-7 "Level 7 Section")
 * [Hints](#hints "Hints Section")
 ---
 
@@ -127,9 +128,9 @@ Level 5 includes an image of a CD case and a remote control on a table with some
 
 The name of the band on the CD case is [Big Bad Voodoo Daddy](https://en.wikipedia.org/wiki/Big_Bad_Voodoo_Daddy "Band Wikipedia")
 
-The image site map can be found over the power button on the remote control.
+The image area map can be found over the power button on the remote control.
 
-Again this site map on click produces another login form, the credentials of which can be found by performing a simple google search of those lyrics and using the song name (**simple songs**) on the form.
+Again this area map on click produces another login form, the credentials of which can be found by performing a simple google search of those lyrics and using the song name ([simple songs](https://www.youtube.com/watch?v=SCgdCj2myRU "Song On YouTube")) on the form.
 
 * Username: simple
 * Password: songs
@@ -139,6 +140,54 @@ Again this site map on click produces another login form, the credentials of whi
 ---
 
 ## Level 6
+
+Level 6 contains an image of pipes with an area map in the lower left corner. Again clicking on this area produces an alert followed by a login form.
+
+The alert reads:
+
+> Password Hint: anagram
+
+So now all we have to do is find the password.
+
+Scrolling down the page you can find the word "up". Hinting at some hidden information above this location. There are 2 ways you can find this...
+
+1. Highlight the page revealing the black text.
+
+2. Read the HTML code realizing there is a second HTML page being loaded in via the [iframe](https://www.w3schools.com/tags/tag_iframe.asp "W3 Iframe Information") tag. This document is trying to obscure the text by setting the body text color to all black. Within this document is a paragraph tag with the hidden information.
+
+The hidden information reads:
+
+> 108 105 108 107 101 122 111 110
+
+These numbers all lay in the range (97-122) of lowercase [ASCII](https://en.wikipedia.org/wiki/ASCII "ASCII Wikipedea") characters.
+
+![ASCII Chart](./Assets/ascii-table.png "ASCII Chart")
+
+Another way to tell that these are ASCII characters is by reading the hidden comment in the HTML source code all the way at the bottom which reads:
+
+```html
+<!--ascii is an alternative-->
+```
+
+Once translated, these codes reveal the word:
+
+> lilkezon
+
+Rearranged this creates the word:
+
+> killzone
+
+Entering this into our login form redirects us to level 7.
+
+**CREDENTIALS -**
+* Login: kill
+* Password: zone
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 7
 
 
 
