@@ -84,9 +84,38 @@ So changing the negative value in the URL into a positive should lead us to leve
 * Negative URL - http://www.deathball.net/notpron/false/movetotheothersite.php
 * Positive URL - http://www.deathball.net/notpron/true/movetotheothersite.php
 
+### [Back To Top](#not-pron "Top Of Page")
+
 ---
 
 ## Level 4
+
+Level 4 presents us again with another image with an area map within. It can be found on the object in front of the two pillows. When this object is clicked on we recieve a JavaScript alert that reads:
+
+> Password Hint: LightThisPlaceNow
+
+After which a login prompt is shown which asks for our username and password.
+
+These credentials can be found in the photo underneath the light on the nightstand.
+
+Somewhat obscured there are two lines of morse code that read:
+
+> ...- --- --- -.. --- --- -- .- --. .. -.-.
+
+Taking that morse code and plugging it into [CyberChef](https://cyberchef.org/ "Cryptography Tool") reveals the following message:
+
+> voodoo magic
+
+Plugging these values into the login form redirects us to Level 5.
+
+* Login: voodoo
+* Password: magic
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 5
 
 
 
