@@ -5,6 +5,10 @@
 * [Starting The Riddle](#starting-the-riddle "Starting Section")
 * [Level 1](#level-1 "Level 1 Section")
 * [Level 2](#level-2 "Level 2 Section")
+* [Level 3](#level-3 "Level 3 Section")
+* [Level 4](#level-4 "Level 4 Section")
+* [Level 5](#level-5 "Level 5 Section")
+* [Level 6](#level-6 "Level 6 Section")
 * [Hints](#hints "Hints Section")
 ---
 
@@ -117,7 +121,28 @@ Plugging these values into the login form redirects us to Level 5.
 
 ## Level 5
 
+Level 5 includes an image of a CD case and a remote control on a table with some text at the bottom that reads:
 
+> Eyes like an angel smiles like a devil
+
+The name of the band on the CD case is [Big Bad Voodoo Daddy](https://en.wikipedia.org/wiki/Big_Bad_Voodoo_Daddy "Band Wikipedia")
+
+The image site map can be found over the power button on the remote control.
+
+Again this site map on click produces another login form, the credentials of which can be found by performing a simple google search of those lyrics and using the song name (**simple songs**) on the form.
+
+* Username: simple
+* Password: songs
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 6
+
+
+
+### [Back To Top](#not-pron "Top Of Page")
 
 ---
 
