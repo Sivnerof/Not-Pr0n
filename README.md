@@ -24,7 +24,7 @@ The game can be accessed by visiting the website [here](http://www.deathball.net
 
 Level 1 is pretty straight forward. Just an image with an [html area map](https://www.w3schools.com/tags/tag_area.asp "W3 Info On Area Tag") over the door which when clicked on leads to level 2. One interesting thing to note though is that in the HTML source code there is a comment directed at users all the way at the bottom. This leads me to believe further levels will require reading source code. The comment reads:
 
-```html:
+```html
 <!--good idea, but the source is one screen ahead of this one-->
 ```
 
@@ -69,6 +69,27 @@ Some things to note about this level are that the image area map is hidden away 
 
 ## Level 3
 
+Level 3 contains a GIF that occasionaly flashes the words:
+
+> Stop being so negative
+
+And a comment in the HTML source code that reads:
+
+```html
+<!-- read the whole url -->
+```
+
+So changing the negative value in the URL into a positive should lead us to level 4.
+
+* Negative URL - http://www.deathball.net/notpron/false/movetotheothersite.php
+* Positive URL - http://www.deathball.net/notpron/true/movetotheothersite.php
+
+---
+
+## Level 4
+
+
+
 ---
 
 ## Hints
@@ -109,7 +130,7 @@ Ever heard of ASCII Code?
 * Second song? Which one could it be?
 Who (or what) is Jay Pack? Say it loud!
 
-[Level 9 - 81](#level-9 "Level 9 Notes")
+### [Level 9 - 81](#level-9 "Level 9 Notes")
 
 * Now you are on your own. No more help!
 But keep in mind that all levels are different from each other!
