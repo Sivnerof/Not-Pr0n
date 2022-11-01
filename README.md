@@ -10,6 +10,7 @@
 * [Level 5](#level-5 "Level 5 Section")
 * [Level 6](#level-6 "Level 6 Section")
 * [Level 7](#level-7 "Level 7 Section")
+* [Level 8](#level-8 "Level 8 Section")
 * [Hints](#hints "Hints Section")
 ---
 
@@ -188,6 +189,89 @@ Entering this into our login form redirects us to level 7.
 ---
 
 ## Level 7
+
+Ok, so this level was pretty difficult. It starts with an image of a crumpled twix wrapper in front of a mirror. There is no area map within the image and no text on the page to guide you. There is a new note in the left corner though which reads the following:
+
+> -From now on almost all levels require you to have a look at the source code.
+
+In the HTML source code we can find the following comments:
+
+```html
+<!--times have changed in deutschland -->
+...
+<!--what candy wrapper is it?-->
+```
+
+If we take a look at the hint for this level it says:
+
+> Carefully read the URL. It's telling you what to do.
+
+Examining the URL for this level something stands out. The strange names for the directory and file.
+
+> /sdrakcab/tieman.htm
+
+This is just backwards for:
+
+> /backwards/nameit.htm
+
+So at first I thought this level would be easy and the solution would be:
+
+> /sdrakcab/xiwt.htm
+
+But this led to a dead end, so I tried every possible combination of reversing directory and file names I can think of and while some led to 404 errors, others were more interesting. Some of these combinations produced unique messages. These are those links and their messages starting from the Level 7 landing page.
+
+1. http://www.deathball.net/notpron/sdrawkcab/tieman.htm
+    > Starting Point
+
+2. http://www.deathball.net/notpron/sdrawkcab/nameit.htm
+    > No, name what you see on the pic, go back!
+
+3. http://www.deathball.net/notpron/sdrawkcab/xiwt.htm
+    > too new
+
+4. http://www.deathball.net/notpron/sdrawkcab/twix.htm
+    > wenoot
+
+5. http://www.deathball.net/notpron/backwards/twix.htm
+    > i'd like to have it backwards tho
+
+6. http://www.deathball.net/notpron/backwards/xiwt.htm
+    > no, i want backwards backwards
+
+7. http://www.deathball.net/notpron/backwards/tieman.htm
+    > no, just name it
+
+8. http://www.deathball.net/notpron/backwards/nameit.htm
+    > do it......name IT
+
+At this point I started to wonder what I was doing wrong and decided to rethink this whole process. These messages continue to tell me to "just name it" then there was the weird hint in the HTML source code.
+
+```html
+<!--times have changed in deutschland-->
+```
+
+Then it hit me, maybe Twix has a different name in Germany.
+
+Which led me to the [Twix Wikipedia](https://en.wikipedia.org/wiki/Twix "Twix Wiki") page.
+
+Apparently Twix used to be called Raider.
+
+Which led to me to the 9th interesting message:
+
+9. http://www.deathball.net/notpron/sdrawkcab/raider.htm
+    * dnuorayawrehto
+
+> Backwards for otherwayaround
+
+And finally the way to level 8:
+
+> http://www.deathball.net/notpron/sdrawkcab/rediar.htm
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 8
 
 
 
