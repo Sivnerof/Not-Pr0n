@@ -11,6 +11,7 @@
 * [Level 6](#level-6 "Level 6 Section")
 * [Level 7](#level-7 "Level 7 Section")
 * [Level 8](#level-8 "Level 8 Section")
+* [Level 9](#level-9 "Level 9 Section")
 * [Hints](#hints "Hints Section")
 ---
 
@@ -273,7 +274,53 @@ And finally the way to level 8:
 
 ## Level 8
 
+Level 8 contains another image with an area map. This time it's right over the soundhole of the guitar. When clicked on, a JavaScript alert pops up giving us the first hint followed by a login form. The alert reads:
 
+> Password Hint: mom, he formatted my second song
+
+Below the image there is text that reads:
+
+> JAY should PACK his stuff
+
+Interesting things to note on this level are that so far every page has been loading up an mp3 file stored at:
+
+> http://www.deathball.net/notpron/stuff/mus1.mp3
+
+But this time in the HTML source code we can see an attempt at loading a second mp3 stored at:
+
+> http://www.deathball.net/notpron/stuff/mus2.mp3
+
+Suspiciously, the [audio tag](https://www.w3schools.com/TAGS/tag_audio.asp "W3 Docs For Audio Tag") for this second mp3 is broken causing it to never be loaded into the document.
+
+```html
+  <audio src="../stuff/mus1.mp3" autoplay loop></audio>
+  <au dio src="../stuff/mus2.mp3">
+```
+
+Theres also an interesting comment in the HTML:
+
+```html
+<!-- water became wine -->
+```
+
+Following the link to the second mp3 we get the following error message:
+
+> no video with supported format and mime type found
+
+If we compare both files with "view source" it becomes clear that mus2.mp3 is not an mp3 it's an image. There are clear strings of text referencing Adobe Photshop.
+
+Downloading this file reveals it is a JPEG of the [level 9 login credentials.](./Level-10-Assets/mus2mp3.jpeg "Image Of Login Credentials")
+
+* Login: inverted
+* Password: tenthlevel
+
+Additional Information - Running [exiftool](https://en.wikipedia.org/wiki/ExifTool "Exiftool Wikipedia Page") on the downloaded JPEG reveals a ton of metadata. One of which might be a link to another level. You can find a copy in the [metadata.txt](./Level-10-Assets/metadata.txt) file within the Level-10-Assets folder.
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 9
 
 ### [Back To Top](#not-pron "Top Of Page")
 

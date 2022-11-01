@@ -1,0 +1,24 @@
+Software                        : Adobe Photoshop CS6 (Macintosh)
+Artist                          : Jay Pack
+By-line                         : Jay Pack
+By-line Title                   : David's Teaboy
+Object Name                     : Password
+Province-State                  : Saarland
+Country-Primary Location Name   : Deutschland
+Keywords                        : inverted:tenthlevel, notpron:pwnz
+URL                             : www.deathball.net
+Slices Group Name               : mus2.mp3
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Authors Position                : David's Teaboy
+Credit                          : Jay Pack
+Source                          : www.deathball.net/notpron/help/betelgeuse.htm
+City                            : Saarbrücken
+State                           : Saarland
+Country                         : Deutschland
+Web Statement                   : www.deathball.net
+Text Layer Name                 : name: inverted password: tenthlevel
+Text Layer Text                 : name: inverted password: tenthlevel
+Title                           : Password
+Creator                         : Jay Pack
+Subject                         : inverted:tenthlevel, notpron:pwnz
