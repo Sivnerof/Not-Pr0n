@@ -322,6 +322,28 @@ Additional Information - Running [exiftool](https://en.wikipedia.org/wiki/ExifTo
 
 ## Level 9
 
+Disregard this section
+
+<span class="not">t</span>ears <span class="not">u</span>nde<span class="not">r</span> joh<span class="not">n</span>'s <span class="not">m</span>ad not<span class="not">e</span>s <span class="not">o</span>f pai<span class="not">n</span>
+<br><span class="not">d</span>id h<span class="not">e</span> <span class="not">a</span>nswer <span class="not">d</span>e<span class="not">m</span>on's c<span class="not">a</span>ll <span class="not">n</span>ow
+
+tears under john's mad notes of pain
+did he answer demon's call now
+
+turn me on dead man
+
+http://www.deathball.net/notpron/luv2music/paulisdead.htm
+http://www.deathball.net/notpron/luv2music/paulisalive.htm
+
+yeah i know he is alive, but don't waste your time with the Mc!
+
+revolution
+luv2music
+
+
+http://www.deathball.net/notpron/right/roawr.htm
+its not that easy, fool
+
 ### [Back To Top](#not-pron "Top Of Page")
 
 ---
@@ -371,10 +393,6 @@ But keep in mind that all levels are different from each other!
 It's easy to find cheats on the internet, but from the moment of your first cheating on, the whole fun is gone, stay strong!
 Don't brag with your level progress, it makes no sense.
 
-### [Back To Top](#not-pron "Top Of Page")
-
 ---
-
-
 
 ### [Back To Top](#not-pron "Top Of Page")
