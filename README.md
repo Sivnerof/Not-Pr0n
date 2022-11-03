@@ -12,6 +12,7 @@
 * [Level 7](#level-7 "Level 7 Section")
 * [Level 8](#level-8 "Level 8 Section")
 * [Level 9](#level-9 "Level 9 Section")
+* [Level 10](#level-10 "Level 10 Section")
 * [Hints](#hints "Hints Section")
 ---
 
@@ -322,24 +323,59 @@ Additional Information - Running [exiftool](https://en.wikipedia.org/wiki/ExifTo
 
 ## Level 9
 
-Disregard this section
+Level 9 is under the /notpron/luv2music directory in a file called paulisdead.htm and the document title for this page (name on the tab) is "revolution".
 
+The page contains another JPEG with an image map over the number 9 in the upper left corner. Clicking this area reveals this levels hint followed by the login prompt. The hint reads:
+
+> Password Hint: colorful
+
+Underneath the image we can find the following text:
+
+> tears under john's mad notes of pain
+>
+> did he answer demon's call now
+
+Looking at the directory name, file name, page title, and text under the image it's clear these are all Beatles references. Even the level number 9 is a reference to the notorious Beatles song "Revolution 9".
+
+But Paul is still alive and changing the URL from:
+
+> http://www.deathball.net/notpron/luv2music/paulisdead.htm
+
+To:
+
+> http://www.deathball.net/notpron/luv2music/paulisalive.htm
+
+Gives us an easter egg that reads:
+
+> yeah i know he is alive, but don't waste your time with the Mc!
+
+And if you Google "[Paul is dead](https://en.wikipedia.org/wiki/Paul_is_dead "Paul Is Dead Wikipedia")" you'll get articles about the infamous conspiracy theory that Paul McCartney died and was replaced by a look alike.
+
+This level is also the first page so far to contain zero comments in the HTML source code.
+
+Instead you'll find something interesting in the repeated use of the [span](https://www.w3schools.com/tags/tag_span.asp "W3 Docs On Span Tag") tags. They wrap around single letters and serve no purpose. They're not being used by a CSS or JavaScript file. They're just suspiciously there.
+
+```html
 <span class="not">t</span>ears <span class="not">u</span>nde<span class="not">r</span> joh<span class="not">n</span>'s <span class="not">m</span>ad not<span class="not">e</span>s <span class="not">o</span>f pai<span class="not">n</span>
 <br><span class="not">d</span>id h<span class="not">e</span> <span class="not">a</span>nswer <span class="not">d</span>e<span class="not">m</span>on's c<span class="not">a</span>ll <span class="not">n</span>ow
+```
 
-tears under john's mad notes of pain
-did he answer demon's call now
+Taking every letter within the span tags reveals the following two lines:
 
-turn me on dead man
+> turn me on
+>
+> dead man
 
-http://www.deathball.net/notpron/luv2music/paulisdead.htm
-http://www.deathball.net/notpron/luv2music/paulisalive.htm
+Which happen to be the login credentials for level 10. Additionally these are the lyrics that can be heard when listening to Revolution 9 backwards, according the the "Paul is dead" conspiracy theorists.
 
-yeah i know he is alive, but don't waste your time with the Mc!
+* Username: turnmeon
+* Password: deadman
 
-revolution
-luv2music
+### [Back To Top](#not-pron "Top Of Page")
 
+---
+
+## Level 10
 
 http://www.deathball.net/notpron/right/roawr.htm
 its not that easy, fool
