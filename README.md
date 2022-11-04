@@ -377,8 +377,16 @@ Which happen to be the login credentials for level 10. Additionally these are th
 
 ## Level 10
 
-http://www.deathball.net/notpron/right/roawr.htm
-its not that easy, fool
+Level 10 unfinished disregard below 
+http://www.deathball.net/notpron/wrong/roawr.htm
+Anagram of arrow
+
+* http://www.deathball.net/notpron/right/roawr.htm
+    * its not that easy, fool
+
+```html
+<!--%SystemRoot%\System32\sndrec32.exe can capture "what u hear"-->
+```
 
 ### [Back To Top](#not-pron "Top Of Page")
 
