@@ -164,7 +164,7 @@ The hidden information reads:
 
 These numbers all lay in the range (97-122) of lowercase [ASCII](https://en.wikipedia.org/wiki/ASCII "ASCII Wikipedea") characters.
 
-![ASCII Chart](./Assets/ascii-table.png "ASCII Chart")
+![ASCII Chart](./Level-6-Assets/ascii-table.png "ASCII Chart")
 
 Another way to tell that these are ASCII characters is by reading the hidden comment in the HTML source code all the way at the bottom which reads:
 
