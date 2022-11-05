@@ -310,12 +310,12 @@ Following the link to the second mp3 we get the following error message:
 
 If we compare both files with "view source" it becomes clear that mus2.mp3 is not an mp3 it's an image. There are clear strings of text referencing Adobe Photshop.
 
-Downloading this file reveals it is a JPEG of the [level 9 login credentials.](./Level-9-Assets/mus2mp3.jpeg "Image Of Login Credentials")
+Downloading this file reveals it is a JPEG of the [level 9 login credentials.](./Level-8-Assets/mus2mp3.jpeg "Image Of Login Credentials")
 
 * Login: inverted
 * Password: tenthlevel
 
-Additional Information - Running [exiftool](https://en.wikipedia.org/wiki/ExifTool "Exiftool Wikipedia Page") on the downloaded JPEG reveals a ton of metadata. One of which might be a link to another level. You can find a copy in the [metadata.txt](./Level-9-Assets/metadata.txt) file within the Level-9-Assets folder.
+Additional Information - Running [exiftool](https://en.wikipedia.org/wiki/ExifTool "Exiftool Wikipedia Page") on the downloaded JPEG reveals a ton of metadata. One of which might be a link to another level. You can find a copy in the [metadata.txt](./Level-8-Assets/metadata.txt) file within the Level-8-Assets folder.
 
 ### [Back To Top](#not-pron "Top Of Page")
 
