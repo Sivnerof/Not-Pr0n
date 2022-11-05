@@ -377,16 +377,75 @@ Which happen to be the login credentials for level 10. Additionally these are th
 
 ## Level 10
 
-Level 10 unfinished disregard below 
+Level 10 contains an image of a gold ring on top of a book. The ring has an area map around it. When the ring is clicked on we receive a JavaScript alert with a password hint, followed by a login form.
+
+The password hint reads:
+
+> Password Hint: operator woman said it
+
+The URL for this page is:
+
+> http://www.deathball.net/notpron/wrong/roawr.htm
+
+The document title is:
+
+> he was impatient
+
+Examining the HTML source code reveals some interesting information. An MP3 file we haven't seen yet called mus3.mp3, and two comments.
+
+```html
+<audio src="../stuff/mus3.mp3" autoplay loop></audio>
+...
+<!--quick quick, don't let me wait-->
+...
+<!--%SystemRoot%\System32\sndrec32.exe can capture "what u hear"-->
+```
+
+The second HTML comment tells us to record what we hear. Instead we can just download that MP3 file we found ([mus3.mp3](http://www.deathball.net/notpron/stuff/mus3.mp3 "mus3.mp3 location")).
+
+Now at this point, I knew that there was hidden data within the audio file, but to be honest I had no idea how to get it or what I was looking for. The audio file just sounded like incomprehensible white noise. So I looked up some YouTube videos on how to hide/find data in audio files.
+
+To start I needed a program for working with audio files and ended up choosing [Audacity](https://www.audacityteam.org/ "Audacity Website").
+
+Once I loaded the mus3.mp3 file into Audacity I checked if the info was hidden within the [spectogram](https://en.wikipedia.org/wiki/Spectrogram "Spectogram Wikipedia").
+
+![mus3.mp3 spectograph](./Level-10-Assets/mus3-mp3-spectograph.png "mus3.mp3 Spectograph")
+
+But there was nothing there. Then I remembered the HTML comment and the page title of the level.
+
+> Document Title: He was impatient
+>
+> HTML Comment: quick quick, don't let me wait
+
+After that I sped up the audio and started to notice that the once incomprehensible audio started to sound more and more like something real.
+
+Then I reversed the audio and in a deep voice the words "Dark Times" could be heard.
+
+It becomes clearer too once the pitch is raised.
+
+Below are the steps needed to hear the words hidden within the audio file. Along with links to the audio files I saved at the different phases.
+
+1. Effect -> Pitch and Tempo -> Change Speed -> Speed Multiplier (5.000)
+    * Sounds like [this](./Level-10-Assets/mus3-sped-up.mp3 "mus3.mp3 Sped Up")
+
+2. Effect -> Pitch and Tempo -> Reversed
+    * Sounds like [this](./Level-10-Assets/mus3-sped-and-reversed.mp3 "mus3.mp3 Sped Up and Reversed")
+
+3. Effect -> Pitch and Tempo -> Change Pitch -> Percent Change (75.000)
+    * Sounds like [this](./Level-10-Assets/mus3-sped-reversed-and-pitch-raised.mp3 "mus3.mp3 Sped, Reversed, Pitch Raised")
+
+This leads us to the following login credentials:
+> Username: dark
+>
+> Password: times
+
+Additional Notes -
+
 http://www.deathball.net/notpron/wrong/roawr.htm
 Anagram of arrow
 
 * http://www.deathball.net/notpron/right/roawr.htm
     * its not that easy, fool
-
-```html
-<!--%SystemRoot%\System32\sndrec32.exe can capture "what u hear"-->
-```
 
 ### [Back To Top](#not-pron "Top Of Page")
 
