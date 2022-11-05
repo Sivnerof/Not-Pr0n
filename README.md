@@ -441,8 +441,11 @@ This leads us to the following login credentials:
 
 Additional Notes -
 
-http://www.deathball.net/notpron/wrong/roawr.htm
-Anagram of arrow
+The [previous level](#level-9 "Level 9") was about a song played backwards revealing a hidden message. This was foreshadowing the reversal of the mus.mp3 file in level 10.
+
+The word "**roawr**" in the roawr.htm file is an anagram of "arrow".
+
+Switching the /right directory to /wrong reveals an easter egg.
 
 * http://www.deathball.net/notpron/right/roawr.htm
     * its not that easy, fool
@@ -450,6 +453,14 @@ Anagram of arrow
 ### [Back To Top](#not-pron "Top Of Page")
 
 ---
+
+## Level 11
+
+
+
+---
+
+### [Back To Top](#not-pron "Top Of Page")
 
 ## Hints
 
