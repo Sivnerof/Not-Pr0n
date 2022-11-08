@@ -456,7 +456,88 @@ Switching the /right directory to /wrong reveals an easter egg.
 
 ## Level 11
 
+Level 11 contains an image of the inside of an oven where something is being cooked (casserole?). The image contains an area map over the oven light. When clicked on, this area map triggers a JavaScript alert followed by a login prompt. The alert reads:
 
+> Password Hint: follow the truth
+
+The URL for this page:
+
+> http://www.deathball.net/notpron/reality/mystery.htm
+
+The document title is:
+
+> ahead of its time
+
+The HTML source code is suspiciously short at only 16 lines. There are no helpful comments.
+
+```html
+<!--IRC Quakenet #notpron-->
+<html>
+    <head>
+        <title>ahead of its time</title>
+        <audio src="../stuff/mus3.mp3" autoplay loop></audio>
+        <LINK REL="stylesheet" TYPE="text/css" HREF="../style.css" />
+    </head>
+    <body>
+    <center>
+        <img src="screen12.jpg" width="680" height="520" border="0" usemap="#Map"> 
+        <map name="Map">
+            <area shape="circle" coords="534,152,29" href="../blame/crossview.htm"  onclick="alert('Password Hint: follow the truth')">
+        </map>
+    </center>
+    </body>
+</html>
+```
+
+The only thing we have to go on is the image. We're told something is "ahead of its time", to "follow the truth", and that there is some "mystery".
+
+At first I thought that "ahead of its time" might refer to the [HTTP Headers](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers "Mozilla Docs On HTTP Headers") but there was nothing out of the ordinary there.
+
+After that I thought maybe something was hidden in the image [file header](https://csrc.nist.gov/glossary/term/File_Header "What Is A File Header?"). Again nothing out of the ordinary there either. I tried the [strings command](https://www.howtogeek.com/427805/how-to-use-the-strings-command-on-linux/ "Article On Strings Command") on the file to look for suspicious text but nothing interesting came back.
+
+Then I tried [exiftool](https://en.wikipedia.org/wiki/ExifTool "Exiftool Wikipedia") on the image to extract metadata, but there was nothing.
+
+At this point I started thinking maybe one of the levels before contained the answer, making it "ahead of its time". This led me to checking the metadata on every image. I saved a copy of [every image](./Images-And-Metadata/Images/ "All Images So Far") and its metadata in the "Images-And-Metadata" folder.
+
+This is where I discovered a couple interesting things:
+
+1. There is a file missing. Where is **screen11.jpg**? Why is level 11's image being saved as the image to level 12 instead?
+
+2. Why is level 8's image being saved as 8a (screen8a.jpg) instead of just the level number like all the others (screen7.jpg, screen9.jpg)? Is there another hidden image on that level?
+
+Image names
+
+1. [screen1.jpg](./Images-And-Metadata/Images/screen1.jpg "Level 1 Image")
+2. [screen2.jpg](./Images-And-Metadata/Images/screen2.jpg "Level 2 Image")
+3. [screen3.jpg](./Images-And-Metadata/Images/screen3.jpg "Level 3 Image")
+4. [screen4.jpg](./Images-And-Metadata/Images/screen4.jpg "Level 4 Image")
+5. [screen5.jpg](./Images-And-Metadata/Images/screen5.jpg "Level 5 Image")
+6. [screen6.jpg](./Images-And-Metadata/Images/screen6.jpg "Level 6 Image")
+7. [screen7.jpg](./Images-And-Metadata/Images/screen7.jpg "Level 7 Image")
+8. [screen8a.jpg](./Images-And-Metadata/Images/screen8a.jpg "Level 8a Image")
+9. [screen9.jpg](./Images-And-Metadata/Images/screen9.jpg "Level 9 Image")
+10. [screen10.jpg](./Images-And-Metadata/Images/screen10.jpg "Level 10 Image")
+11. [screen12.jpg](./Images-And-Metadata/Images/screen12.jpg "Level 12 Image")
+
+
+
+Where was **screen11.jpg**? Instead I had [screen12.jpg](./Images-And-Metadata/Images/screen12.jpg "Level 11 Image")
+
+http://notpron.org/notpron/screen1.jpg
+http://notpron.org/notpron/not/screen2.jpg
+http://www.deathball.net/notpron/false/screen3.gif
+http://www.deathball.net/notpron/true/screen4.jpg
+http://www.deathball.net/notpron/google/screen5.jpg
+http://www.deathball.net/notpron/nothing/screen6.jpg
+http://www.deathball.net/notpron/sdrawkcab/screen7.jpg
+http://www.deathball.net/notpron/sdrawkcab/screen8a.jpg
+http://www.deathball.net/notpron/luv2music/screen9.jpg
+http://www.deathball.net/notpron/wrong/screen10.jpg
+http://www.deathball.net/notpron/reality/screen12.jpg
+
+
+
+http://www.deathball.net/notpron/reality/screen11.jpg
 
 ---
 
