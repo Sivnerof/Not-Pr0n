@@ -1,0 +1,71 @@
+=======================================================================
+RESULT OF RUNNING FILE COMMAND ON IMAGE
+=======================================================================
+
+screen11.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=7, orientation=upper-left, xresolution=98, yresolution=106, resolutionunit=3, software=Adobe Photoshop 7.0, datetime=2004:11:16 18:43:05], baseline, precision 8, 640x480, components 3
+
+=======================================================================
+ACTUAL METADATA PULLED WITH EXIFTOOL
+=======================================================================
+
+
+ExifTool Version Number         : 12.40
+File Name                       : screen11.jpg
+Directory                       : .
+File Size                       : 19 KiB
+File Modification Date/Time     : 2022:11:07 23:08:43-07:00
+File Access Date/Time           : 2022:11:07 23:17:09-07:00
+File Inode Change Date/Time     : 2022:11:07 23:08:43-07:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.02
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Orientation                     : Horizontal (normal)
+X Resolution                    : 28
+Y Resolution                    : 28
+Resolution Unit                 : cm
+Software                        : Adobe Photoshop 7.0
+Modify Date                     : 2004:11:16 18:43:05
+Color Space                     : Uncalibrated
+Exif Image Width                : 640
+Exif Image Height               : 480
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 324
+Thumbnail Length                : 1137
+IPTC Digest                     : 00000000000000000000000000000000
+Displayed Units X               : cm
+Displayed Units Y               : cm
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 120
+Global Altitude                 : 30
+Copyright Flag                  : False
+URL List                        : 
+Slices Group Name               : screen11
+Num Slices                      : 1
+Photoshop Thumbnail             : (Binary data 1137 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 7.0
+Photoshop Quality               : 6
+Photoshop Format                : Standard
+Progressive Scans               : 3 Scans
+XMP Toolkit                     : XMP toolkit 2.8.2-33, framework 1.5
+About                           : uuid:712ca8dd-37f6-11d9-b72a-9a200ae351b2
+Document ID                     : adobe:docid:photoshop:712ca8db-37f6-11d9-b72a-9a200ae351b2
+DCT Encode Version              : 100
+APP14 Flags 0                   : Encoded with Blend=1 downsampling
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
+Image Size                      : 640x480
+Megapixels                      : 0.307
+Thumbnail Image                 : (Binary data 1137 bytes, use -b option to extract)
