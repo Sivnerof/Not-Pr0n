@@ -1,0 +1,114 @@
+=======================================================================
+RESULT OF RUNNING FILE COMMAND ON IMAGE
+=======================================================================
+
+mus2mp3.jpeg: JPEG image data, Exif standard: [TIFF image data, big-endian, direntries=13, height=100, bps=0, PhotometricIntepretation=RGB, orientation=upper-left, width=640], baseline, precision 8, 640x100, components 3
+
+=======================================================================
+ACTUAL METADATA PULLED WITH EXIFTOOL
+=======================================================================
+
+ExifTool Version Number         : 12.40
+File Name                       : mus2mp3.jpeg
+Directory                       : .
+File Size                       : 19 KiB
+File Modification Date/Time     : 2022:11:07 22:36:29-07:00
+File Access Date/Time           : 2022:11:07 22:39:03-07:00
+File Inode Change Date/Time     : 2022:11:07 22:36:29-07:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Photometric Interpretation      : RGB
+Orientation                     : Horizontal (normal)
+Samples Per Pixel               : 3
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop CS6 (Macintosh)
+Modify Date                     : 2019:08:05 13:01:39
+Artist                          : Jay Pack
+Exif Version                    : 0221
+Color Space                     : Uncalibrated
+Exif Image Width                : 640
+Exif Image Height               : 100
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 418
+Thumbnail Length                : 1300
+Current IPTC Digest             : e239e3130f75e5ed50e767fe9859be47
+Coded Character Set             : UTF8
+Application Record Version      : 2
+By-line                         : Jay Pack
+By-line Title                   : David's Teaboy
+Object Name                     : Password
+Time Created                    : 00:00:00+00:00
+Province-State                  : Saarland
+Country-Primary Location Name   : Deutschland
+Keywords                        : inverted:tenthlevel, notpron:pwnz
+IPTC Digest                     : e239e3130f75e5ed50e767fe9859be47
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 120
+Global Altitude                 : 30
+Copyright Flag                  : False
+URL                             : www.deathball.net
+URL List                        : 
+Slices Group Name               : mus2.mp3
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 1300 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop CS6
+Photoshop Quality               : 8
+Photoshop Format                : Standard
+Progressive Scans               : 3 Scans
+XMP Toolkit                     : Adobe XMP Core 5.3-c011 66.145661, 2012/02/06-14:56:27
+Authors Position                : David's Teaboy
+Credit                          : Jay Pack
+Source                          : www.deathball.net/notpron/help/betelgeuse.htm
+City                            : Saarbrücken
+State                           : Saarland
+Country                         : Deutschland
+Date Created                    : 2004:11:28
+Urgency                         : 1 (most urgent)
+Legacy IPTC Digest              : 3BD76B89E437294E86F54684C75C9FE2
+Color Mode                      : RGB
+Create Date                     : 2004:11:28 20:00:00+01:00
+Metadata Date                   : 2019:08:05 13:01:39+02:00
+Creator Tool                    : Adobe Photoshop CS Windows
+Document ID                     : adobe:docid:photoshop:482b70df-4142-11d9-98d8-8d5062af931b
+Instance ID                     : xmp.iid:0280117407206811822AAB5B2B992567
+Original Document ID            : adobe:docid:photoshop:482b70df-4142-11d9-98d8-8d5062af931b
+Web Statement                   : www.deathball.net
+Marked                          : False
+Format                          : image/jpeg
+Text Layer Name                 : name: inverted password: tenthlevel
+Text Layer Text                 : name: inverted password: tenthlevel
+History Action                  : saved, saved
+History Instance ID             : xmp.iid:0180117407206811822AAB5B2B992567, xmp.iid:0280117407206811822AAB5B2B992567
+History When                    : 2019:08:05 13:01:39+02:00, 2019:08:05 13:01:39+02:00
+History Software Agent          : Adobe Photoshop CS6 (Macintosh), Adobe Photoshop CS6 (Macintosh)
+History Changed                 : /, /
+Title                           : Password
+Creator                         : Jay Pack
+Subject                         : inverted:tenthlevel, notpron:pwnz
+DCT Encode Version              : 100
+APP14 Flags 0                   : (none)
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 640
+Image Height                    : 100
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Image Size                      : 640x100
+Megapixels                      : 0.064
+Thumbnail Image                 : (Binary data 1300 bytes, use -b option to extract)
+Date/Time Created               : 2004:11:28 00:00:00+00:00
+Date/Time Original              : 2004:11:28 00:00:00+00:00
