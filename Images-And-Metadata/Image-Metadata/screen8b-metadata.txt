@@ -2,19 +2,19 @@
 RESULT OF RUNNING FILE COMMAND ON IMAGE
 =======================================================================
 
-screen3.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=10, manufacturer=CASIO, model=QV-2300UX, orientation=upper-left, xresolution=150, yresolution=158, resolutionunit=2, software=Adobe Photoshop CS Windows, datetime=2005:02:11 00:49:25], baseline, precision 8, 640x480, components 3
+screen8b.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=10, manufacturer=CASIO, model=QV-2300UX, orientation=upper-left, xresolution=150, yresolution=158, resolutionunit=2, software=Adobe Photoshop 7.0, datetime=2004:11:26 15:11:28], baseline, precision 8, 640x480, components 3
 
 =======================================================================
 ACTUAL METADATA PULLED WITH EXIFTOOL
 =======================================================================
 
 ExifTool Version Number         : 12.40
-File Name                       : screen3.jpg
+File Name                       : screen8b.jpg
 Directory                       : .
-File Size                       : 48 KiB
-File Modification Date/Time     : 2022:11:08 13:55:37-07:00
-File Access Date/Time           : 2022:11:08 13:58:07-07:00
-File Inode Change Date/Time     : 2022:11:08 13:55:37-07:00
+File Size                       : 21 KiB
+File Modification Date/Time     : 2022:11:08 13:48:28-07:00
+File Access Date/Time           : 2022:11:08 13:58:19-07:00
+File Inode Change Date/Time     : 2022:11:08 13:48:28-07:00
 File Permissions                : -rw-rw-r--
 File Type                       : JPEG
 File Type Extension             : jpg
@@ -27,31 +27,30 @@ Orientation                     : Horizontal (normal)
 X Resolution                    : 72
 Y Resolution                    : 72
 Resolution Unit                 : inches
-Software                        : Adobe Photoshop CS Windows
-Modify Date                     : 2005:02:11 00:49:25
+Software                        : Adobe Photoshop 7.0
+Modify Date                     : 2004:11:26 15:11:28
 Y Cb Cr Positioning             : Centered
 Exposure Time                   : 1/8
 F Number                        : 2.8
 Exposure Program                : Program AE
 Exif Version                    : 0210
-Date/Time Original              : 2000:01:26 15:31:23
-Create Date                     : 2000:01:26 15:31:23
+Date/Time Original              : 2004:07:31 21:52:02
+Create Date                     : 2004:07:31 21:52:02
 Components Configuration        : Y, Cb, Cr, -
 Compressed Bits Per Pixel       : 1.493333333
 Exposure Compensation           : 0
 Max Aperture Value              : 2.6
 Metering Mode                   : Multi-segment
+Flash                           : No Flash
 Focal Length                    : 6.4 mm
 Flashpix Version                : 0100
 Color Space                     : sRGB
 Exif Image Width                : 640
 Exif Image Height               : 480
-Interoperability Index          : R98 - DCF basic file (sRGB)
-Interoperability Version        : 0100
 File Source                     : Digital Camera
 Compression                     : JPEG (old-style)
-Thumbnail Offset                : 696
-Thumbnail Length                : 2366
+Thumbnail Offset                : 644
+Thumbnail Length                : 0
 IPTC Digest                     : 00000000000000000000000000000000
 Displayed Units X               : inches
 Displayed Units Y               : inches
@@ -62,31 +61,17 @@ Global Angle                    : 30
 Global Altitude                 : 30
 Copyright Flag                  : False
 URL List                        : 
-Slices Group Name               : 3
+Slices Group Name               : screen8b
 Num Slices                      : 1
-Pixel Aspect Ratio              : 1
-Photoshop Thumbnail             : (Binary data 2366 bytes, use -b option to extract)
 Has Real Merged Data            : Yes
 Writer Name                     : Adobe Photoshop
-Reader Name                     : Adobe Photoshop CS
-Photoshop Quality               : 8
-Photoshop Format                : Optimized
+Reader Name                     : Adobe Photoshop 7.0
+Photoshop Quality               : 4
+Photoshop Format                : Standard
 Progressive Scans               : 3 Scans
-XMP Toolkit                     : XMP toolkit 3.0-28, framework 1.6
-About                           : uuid:bdc36582-7bbd-11d9-95cd-cfc645fecbca
-Date/Time Digitized             : 2000:01:26 15:31:23+01:00
-Flash Fired                     : False
-Flash Return                    : No return detection
-Flash Mode                      : Unknown
-Flash Function                  : False
-Flash Red Eye Mode              : False
-History                         : 
-Metadata Date                   : 2005:02:11 00:49:25+01:00
-Creator Tool                    : Adobe Photoshop CS Windows
-Derived From Instance ID        : uuid:bdc3657e-7bbd-11d9-95cd-cfc645fecbca
-Derived From Document ID        : adobe:docid:photoshop:bdc3657a-7bbd-11d9-95cd-cfc645fecbca
-Document ID                     : adobe:docid:photoshop:bdc36581-7bbd-11d9-95cd-cfc645fecbca
-Format                          : image/jpeg
+XMP Toolkit                     : XMP toolkit 2.8.2-33, framework 1.5
+About                           : uuid:f5eedaff-3fb4-11d9-8617-c343367b8c88
+Document ID                     : adobe:docid:photoshop:f5eedafe-3fb4-11d9-8617-c343367b8c88
 Profile CMM Type                : Linotronic
 Profile Version                 : 2.1.0
 Profile Class                   : Display Device Profile
@@ -127,7 +112,7 @@ Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extr
 Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
 Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
 DCT Encode Version              : 100
-APP14 Flags 0                   : (none)
+APP14 Flags 0                   : Encoded with Blend=1 downsampling
 APP14 Flags 1                   : (none)
 Color Transform                 : YCbCr
 Image Width                     : 640
@@ -135,11 +120,9 @@ Image Height                    : 480
 Encoding Process                : Baseline DCT, Huffman coding
 Bits Per Sample                 : 8
 Color Components                : 3
-Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Y Cb Cr Sub Sampling            : YCbCr4:2:0 (2 2)
 Aperture                        : 2.8
 Image Size                      : 640x480
 Megapixels                      : 0.307
 Shutter Speed                   : 1/8
-Thumbnail Image                 : (Binary data 2366 bytes, use -b option to extract)
-Flash                           : No Flash
 Focal Length                    : 6.4 mm

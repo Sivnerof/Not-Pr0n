@@ -497,7 +497,7 @@ After that I thought maybe something was hidden in the image [file header](https
 
 Then I tried [exiftool](https://en.wikipedia.org/wiki/ExifTool "Exiftool Wikipedia") on the image to extract metadata, but there was nothing.
 
-At this point I started thinking maybe one of the levels before contained the answer, making it "ahead of its time". This led me to checking the metadata on every image. I saved a copy of [every image](./Images-And-Metadata/Images/ "All Images So Far") and its metadata in the "Images-And-Metadata" folder.
+At this point I started thinking maybe one of the levels before contained the answer, making it "ahead of its time". This led me to checking the metadata on every image. I saved a copy of [every image](./Images-And-Metadata/Images/ "All Images So Far") and its [metadata](./Images-And-Metadata/Image-Metadata/ "All Image Metadata So Far") in the "[Images-And-Metadata](./Images-And-Metadata/ "Images-And-Metadata Folder")" folder.
 
 This is where I discovered a couple interesting things:
 
@@ -509,7 +509,7 @@ Image names
 
 1. [screen1.jpg](./Images-And-Metadata/Images/screen1.jpg "Level 1 Image")
 2. [screen2.jpg](./Images-And-Metadata/Images/screen2.jpg "Level 2 Image")
-3. [screen3.jpg](./Images-And-Metadata/Images/screen3.jpg "Level 3 Image")
+3. [screen3.gif](./Images-And-Metadata/Images/screen3.gif "Level 3 GIF")
 4. [screen4.jpg](./Images-And-Metadata/Images/screen4.jpg "Level 4 Image")
 5. [screen5.jpg](./Images-And-Metadata/Images/screen5.jpg "Level 5 Image")
 6. [screen6.jpg](./Images-And-Metadata/Images/screen6.jpg "Level 6 Image")
@@ -519,25 +519,42 @@ Image names
 10. [screen10.jpg](./Images-And-Metadata/Images/screen10.jpg "Level 10 Image")
 11. [screen12.jpg](./Images-And-Metadata/Images/screen12.jpg "Level 12 Image")
 
+Going back to the URL for the image on level 11:
 
+> http://www.deathball.net/notpron/reality/screen12.jpg
 
-Where was **screen11.jpg**? Instead I had [screen12.jpg](./Images-And-Metadata/Images/screen12.jpg "Level 11 Image")
+And looking for the lost file:
 
-http://notpron.org/notpron/screen1.jpg
-http://notpron.org/notpron/not/screen2.jpg
-http://www.deathball.net/notpron/false/screen3.gif
-http://www.deathball.net/notpron/true/screen4.jpg
-http://www.deathball.net/notpron/google/screen5.jpg
-http://www.deathball.net/notpron/nothing/screen6.jpg
-http://www.deathball.net/notpron/sdrawkcab/screen7.jpg
-http://www.deathball.net/notpron/sdrawkcab/screen8a.jpg
-http://www.deathball.net/notpron/luv2music/screen9.jpg
-http://www.deathball.net/notpron/wrong/screen10.jpg
-http://www.deathball.net/notpron/reality/screen12.jpg
+> http://www.deathball.net/notpron/reality/screen11.jpg
 
+Reveals the existence of the missing image:
 
+![screen11.jpg](./Images-And-Metadata/Images/screen11.jpg "The Missing Image")
 
-http://www.deathball.net/notpron/reality/screen11.jpg
+And our login credentials for level 12:
+
+> Login: fucking
+>
+> Password: pans
+
+Additional Notes -
+
+I went back to see if the 8b image existed and it does.
+
+Changing:
+
+> http://www.deathball.net/notpron/sdrawkcab/screen8a.jpg
+
+To:
+
+> http://www.deathball.net/notpron/sdrawkcab/screen8b.jpg
+
+Reveals:
+
+![screen8b.jpg](./Images-And-Metadata/Images/screen8b.jpg "Other Level 8 Image")
+
+There's also an image for level 3. The only level so far to use a GIF instead of image. It can be found by replacing the gif extension with jpg.
+
 
 ---
 
