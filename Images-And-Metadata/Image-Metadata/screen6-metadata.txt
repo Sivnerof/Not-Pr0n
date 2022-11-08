@@ -1,0 +1,168 @@
+=======================================================================
+RESULT OF RUNNING FILE COMMAND ON IMAGE
+=======================================================================
+
+screen6.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 230x230, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=10, manufacturer=EASTMAN KODAK COMPANY, model=KODAK DX7630 ZOOM DIGITAL CAMERA, orientation=upper-left, xresolution=189, yresolution=197, resolutionunit=2, software=Adobe Photoshop CS Windows, datetime=2005:02:11 20:11:49], baseline, precision 8, 640x480, components 3
+
+=======================================================================
+ACTUAL METADATA PULLED WITH EXIFTOOL
+=======================================================================
+
+
+ExifTool Version Number         : 12.40
+File Name                       : screen6.jpg
+Directory                       : .
+File Size                       : 100 KiB
+File Modification Date/Time     : 2022:11:07 21:53:41-07:00
+File Access Date/Time           : 2022:11:07 22:15:13-07:00
+File Inode Change Date/Time     : 2022:11:07 22:14:56-07:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.02
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : EASTMAN KODAK COMPANY
+Camera Model Name               : KODAK DX7630 ZOOM DIGITAL CAMERA
+Orientation                     : Horizontal (normal)
+X Resolution                    : 230
+Y Resolution                    : 230
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop CS Windows
+Modify Date                     : 2005:02:11 20:11:49
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/10
+F Number                        : 3.4
+Exposure Program                : Program AE
+ISO                             : 200
+Exif Version                    : 0221
+Date/Time Original              : 2005:02:11 19:55:18
+Create Date                     : 2005:02:11 19:55:18
+Components Configuration        : Y, Cb, Cr, -
+Shutter Speed Value             : 1/11
+Aperture Value                  : 3.4
+Exposure Compensation           : 0
+Max Aperture Value              : 2.8
+Metering Mode                   : Multi-segment
+Light Source                    : Unknown
+Focal Length                    : 8.0 mm
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 640
+Exif Image Height               : 480
+Interoperability Index          : R98 - DCF basic file (sRGB)
+Interoperability Version        : 0100
+Exposure Index                  : 200
+Sensing Method                  : One-chip color area
+File Source                     : Digital Camera
+Scene Type                      : Directly photographed
+Custom Rendered                 : Normal
+Exposure Mode                   : Auto
+White Balance                   : Auto
+Digital Zoom Ratio              : 0
+Focal Length In 35mm Format     : 39 mm
+Scene Capture Type              : Standard
+Gain Control                    : Low gain up
+Contrast                        : Normal
+Saturation                      : Normal
+Sharpness                       : Normal
+Subject Distance Range          : Unknown
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 960
+Thumbnail Length                : 6240
+IPTC Digest                     : 00000000000000000000000000000000
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+Copyright Flag                  : False
+URL List                        : 
+Slices Group Name               : 6
+Num Slices                      : 1
+Pixel Aspect Ratio              : 1
+Photoshop Thumbnail             : (Binary data 6240 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop CS
+Photoshop Quality               : 8
+Photoshop Format                : Standard
+Progressive Scans               : 3 Scans
+XMP Toolkit                     : XMP toolkit 3.0-28, framework 1.6
+About                           : uuid:a15be885-7c60-11d9-af14-912e45e1bd63
+Date/Time Digitized             : 2005:02:11 19:55:18+01:00
+Flash Fired                     : False
+Flash Return                    : No return detection
+Flash Mode                      : Off
+Flash Function                  : False
+Flash Red Eye Mode              : False
+History                         : 
+Metadata Date                   : 2005:02:11 20:11:49+01:00
+Creator Tool                    : Adobe Photoshop CS Windows
+Derived From Instance ID        : uuid:a15be881-7c60-11d9-af14-912e45e1bd63
+Derived From Document ID        : adobe:docid:photoshop:a15be880-7c60-11d9-af14-912e45e1bd63
+Document ID                     : adobe:docid:photoshop:a15be884-7c60-11d9-af14-912e45e1bd63
+Format                          : image/jpeg
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : (none)
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 640
+Image Height                    : 480
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 3.4
+Image Size                      : 640x480
+Megapixels                      : 0.307
+Scale Factor To 35 mm Equivalent: 4.9
+Shutter Speed                   : 1/10
+Thumbnail Image                 : (Binary data 6240 bytes, use -b option to extract)
+Flash                           : Off, Did not fire
+Circle Of Confusion             : 0.006 mm
+Field Of View                   : 49.6 deg
+Focal Length                    : 8.0 mm (35 mm equivalent: 39.0 mm)
+Hyperfocal Distance             : 3.05 m
+Light Value                     : 5.9
