@@ -1,0 +1,130 @@
+=======================================================================
+RESULT OF RUNNING FILE COMMAND ON IMAGE
+=======================================================================
+
+realscreen12.jpg: JPEG image data, JFIF standard 1.02, resolution (DPI), density 72x72, segment length 16, Exif Standard: [TIFF image data, big-endian, direntries=10, manufacturer=CASIO, model=QV-2300UX, orientation=upper-left, xresolution=150, yresolution=158, resolutionunit=2, software=Adobe Photoshop 7.0, datetime=2004:11:22 05:43:30], baseline, precision 8, 640x240, components 3
+
+=======================================================================
+ACTUAL METADATA PULLED WITH EXIFTOOL
+=======================================================================
+
+ExifTool Version Number         : 12.40
+File Name                       : realscreen12.jpg
+Directory                       : .
+File Size                       : 103 KiB
+File Modification Date/Time     : 2022:11:08 16:28:59-07:00
+File Access Date/Time           : 2022:11:08 17:02:20-07:00
+File Inode Change Date/Time     : 2022:11:08 16:28:59-07:00
+File Permissions                : -rw-rw-r--
+File Type                       : JPEG
+File Type Extension             : jpg
+MIME Type                       : image/jpeg
+JFIF Version                    : 1.02
+Exif Byte Order                 : Big-endian (Motorola, MM)
+Make                            : CASIO
+Camera Model Name               : QV-2300UX
+Orientation                     : Horizontal (normal)
+X Resolution                    : 72
+Y Resolution                    : 72
+Resolution Unit                 : inches
+Software                        : Adobe Photoshop 7.0
+Modify Date                     : 2004:11:22 05:43:30
+Y Cb Cr Positioning             : Centered
+Exposure Time                   : 1/8
+F Number                        : 2.8
+Exposure Program                : Program AE
+Exif Version                    : 0210
+Date/Time Original              : 2000:01:05 22:50:35
+Create Date                     : 2000:01:05 22:50:35
+Components Configuration        : Y, Cb, Cr, -
+Compressed Bits Per Pixel       : 1.493333333
+Exposure Compensation           : 0
+Max Aperture Value              : 2.6
+Metering Mode                   : Multi-segment
+Flash                           : No Flash
+Focal Length                    : 6.4 mm
+Flashpix Version                : 0100
+Color Space                     : sRGB
+Exif Image Width                : 640
+Exif Image Height               : 240
+File Source                     : Digital Camera
+Compression                     : JPEG (old-style)
+Thumbnail Offset                : 644
+Thumbnail Length                : 3054
+IPTC Digest                     : 00000000000000000000000000000000
+Displayed Units X               : inches
+Displayed Units Y               : inches
+Print Style                     : Centered
+Print Position                  : 0 0
+Print Scale                     : 1
+Global Angle                    : 30
+Global Altitude                 : 30
+Copyright Flag                  : False
+URL List                        : 
+Slices Group Name               : realscreen12
+Num Slices                      : 1
+Photoshop Thumbnail             : (Binary data 3054 bytes, use -b option to extract)
+Has Real Merged Data            : Yes
+Writer Name                     : Adobe Photoshop
+Reader Name                     : Adobe Photoshop 7.0
+Photoshop Quality               : 10
+Photoshop Format                : Standard
+Progressive Scans               : 3 Scans
+XMP Toolkit                     : XMP toolkit 2.8.2-33, framework 1.5
+About                           : uuid:e5051c96-3c40-11d9-a1b6-dc8ace526f7d
+Document ID                     : adobe:docid:photoshop:e5051c94-3c40-11d9-a1b6-dc8ace526f7d
+Profile CMM Type                : Linotronic
+Profile Version                 : 2.1.0
+Profile Class                   : Display Device Profile
+Color Space Data                : RGB
+Profile Connection Space        : XYZ
+Profile Date Time               : 1998:02:09 06:49:00
+Profile File Signature          : acsp
+Primary Platform                : Microsoft Corporation
+CMM Flags                       : Not Embedded, Independent
+Device Manufacturer             : Hewlett-Packard
+Device Model                    : sRGB
+Device Attributes               : Reflective, Glossy, Positive, Color
+Rendering Intent                : Perceptual
+Connection Space Illuminant     : 0.9642 1 0.82491
+Profile Creator                 : Hewlett-Packard
+Profile ID                      : 0
+Profile Copyright               : Copyright (c) 1998 Hewlett-Packard Company
+Profile Description             : sRGB IEC61966-2.1
+Media White Point               : 0.95045 1 1.08905
+Media Black Point               : 0 0 0
+Red Matrix Column               : 0.43607 0.22249 0.01392
+Green Matrix Column             : 0.38515 0.71687 0.09708
+Blue Matrix Column              : 0.14307 0.06061 0.7141
+Device Mfg Desc                 : IEC http://www.iec.ch
+Device Model Desc               : IEC 61966-2.1 Default RGB colour space - sRGB
+Viewing Cond Desc               : Reference Viewing Condition in IEC61966-2.1
+Viewing Cond Illuminant         : 19.6445 20.3718 16.8089
+Viewing Cond Surround           : 3.92889 4.07439 3.36179
+Viewing Cond Illuminant Type    : D50
+Luminance                       : 76.03647 80 87.12462
+Measurement Observer            : CIE 1931
+Measurement Backing             : 0 0 0
+Measurement Geometry            : Unknown
+Measurement Flare               : 0.999%
+Measurement Illuminant          : D65
+Technology                      : Cathode Ray Tube Display
+Red Tone Reproduction Curve     : (Binary data 2060 bytes, use -b option to extract)
+Green Tone Reproduction Curve   : (Binary data 2060 bytes, use -b option to extract)
+Blue Tone Reproduction Curve    : (Binary data 2060 bytes, use -b option to extract)
+DCT Encode Version              : 100
+APP14 Flags 0                   : [14]
+APP14 Flags 1                   : (none)
+Color Transform                 : YCbCr
+Image Width                     : 640
+Image Height                    : 240
+Encoding Process                : Baseline DCT, Huffman coding
+Bits Per Sample                 : 8
+Color Components                : 3
+Y Cb Cr Sub Sampling            : YCbCr4:4:4 (1 1)
+Aperture                        : 2.8
+Image Size                      : 640x240
+Megapixels                      : 0.154
+Shutter Speed                   : 1/8
+Thumbnail Image                 : (Binary data 3054 bytes, use -b option to extract)
+Focal Length                    : 6.4 mm

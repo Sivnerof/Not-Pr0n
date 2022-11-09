@@ -1,0 +1,53 @@
+=======================================================================
+RESULT OF RUNNING FILE COMMAND ON IMAGE
+=======================================================================
+
+dragon.wmv: Microsoft ASF ASF_Extended_Content_Description_Object
+
+=======================================================================
+ACTUAL METADATA PULLED WITH EXIFTOOL
+=======================================================================
+
+ExifTool Version Number         : 12.40
+File Name                       : dragon.wmv
+Directory                       : .
+File Size                       : 1872 KiB
+File Modification Date/Time     : 2004:11:14 20:25:06-07:00
+File Access Date/Time           : 2022:11:08 16:34:29-07:00
+File Inode Change Date/Time     : 2022:11:08 16:34:28-07:00
+File Permissions                : -rw-rw-r--
+File Type                       : WMV
+File Type Extension             : wmv
+MIME Type                       : video/x-ms-wmv
+Parental Rating                 : 
+Title                           : 
+Author                          : 
+Copyright                       : 
+Description                     : 
+File ID                         : BD9CBA60-C8FB-4D95-9F9F-4C174A6DF0F4
+File Length                     : 1917409
+Creation Date                   : 2004:11:14 19:24:10Z
+Data Packets                    : 301
+Duration                        : 0:00:34
+Send Duration                   : 0:00:32
+Preroll                         : 4000
+Flags                           : 2
+Min Packet Size                 : 6351
+Max Packet Size                 : 6351
+Max Bitrate                     : 517 kbps
+Is VBR                          : False
+Audio Codec Name                : Windows Media Audio 9.1
+Audio Codec Description         :  64 kbps, 44 kHz, stereo (A/V) 1-pass CBR
+Video Codec Name                : Windows Media Video 9
+Video Codec Description         : 
+Audio Codec ID                  : Windows Media Audio V2 V7 V8 V9 / DivX audio (WMA) / Alex AC3 Audio
+Audio Channels                  : 2
+Audio Sample Rate               : 44100
+Stream Type                     : Video
+Error Correction Type           : No Error Correction
+Time Offset                     : 0 s
+Stream Number                   : 2
+Image Width                     : 320
+Image Height                    : 240
+Image Size                      : 320x240
+Megapixels                      : 0.077

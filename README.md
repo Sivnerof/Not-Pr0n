@@ -13,6 +13,9 @@
 * [Level 8](#level-8 "Level 8 Section")
 * [Level 9](#level-9 "Level 9 Section")
 * [Level 10](#level-10 "Level 10 Section")
+* [Level 11](#level-11 "Level 11 Section")
+* [Level 12](#level-12 "Level 12 Section")
+* [Level 13](#level-13 "Level 13 Section")
 * [Hints](#hints "Hints Section")
 ---
 
@@ -555,10 +558,117 @@ Reveals:
 
 There's also an image for level 3. The only level so far to use a GIF instead of image. It can be found by replacing the gif extension with jpg.
 
+### [Back To Top](#not-pron "Top Of Page")
 
 ---
 
+## Level 12
+
+Level 12 contains an image of two side by side, nearly identical scenes of random items across a floor. and this time there are two area maps over the image. Both over the number 12.
+
+![Level 12 Image](./Images-And-Metadata/Images/realscreen12.jpg "Level 12 Image")
+
+Clicking on the area maps triggers the login prompt for level 13 and a password hint which reads:
+
+> Password Hint: attention whore
+
+The URL for this level is:
+
+> http://www.deathball.net/notpron/blame/crossview.htm
+
+And the document title is:
+
+> stereo
+
+Underneath the image is the following subtext:
+
+> I'm ruining the third dimension!
+
+Also the Google search bar is back which means we're going to have to look something up.
+
+Inspecting the HTML source code we can find four interesting comments:
+
+```html
+<!-- switch pics for parallel view -->
+
+<!--name me-->
+
+<!--GIF me my picture back-->
+
+<!--http://www.deathball.net/temp/dragon.zip-->
+```
+
+The "name me" comment is right next to the words "I'm ruining the third dimension".
+
+```html
+<p><font color="#FFFFFF" size="5" face="Arial">I'm ruining the third dimension!<!--name me--></font></p>
+```
+
+Visiting the [URL in the comments](http://www.deathball.net/temp/dragon.zip "URL From The Comments Section"), we're able to download a ZIP file called [dragon.zip](./Level-12-Assets/dragon.zip "dragon.zip file") which contains a file called [dragon.wmv](./Level-12-Assets/dragon.wmv "dragon.wmv File").
+
+But the video kind of leads nowhere, at least for me it did.
+
+Going back to the [level 12 image URL](http://www.deathball.net/notpron/blame/realscreen12.jpg "Level 12 Image Location") and looking for a GIF based on the HTML comment "GIF me my image back". You'll find that a gif version of the images does exist. You can find it by:
+
+Changing:
+
+> http://www.deathball.net/notpron/blame/realscreen12.jpg
+
+To:
+
+> http://www.deathball.net/notpron/blame/realscreen12.gif
+
+But still, no password.
+
+Looking at the other clues, I decided to look up "what is a crossview?" in DuckDuckGo and one of the results stuck **way** out.
+
+A [Reddit page](https://www.reddit.com/r/CrossView/ "Reddit CrossView Community") with the title:
+
+> CrossView: stereoscopic 3D using cross-eyed freeviewing of side-by-side stereograms
+
+According to the [r/CrossView Wiki](https://www.reddit.com/r/CrossView/wiki/index/ "Reddit Wiki On CrossViewing"):
+
+> Cross view images, or side-by-side stereoscopy, is a cool way of seeing 3D pictures without needing technologically advanced screens or special glasses.
+>
+> How To View: Simply cross your eyes halfway between the pictures until both images overlap one another (3 images total), holding your view on the central image, and with a little patience, the image should 'push' into focus- you'll know it when you see it!
+
+They also have a sister-sub called [r/ParallelView](https://www.reddit.com/r/ParallelView "ParallelView SubReddit") for "reversed crossview" or "pseudo-stereo".
+
+So this pretty much hit on everything in this level. The title being "stereo", comment saying "switch pics for parallel view", split images and most importantly the subtext that says "I'm breaking the third dimension".
+
+To understand what is "breaking the third dimension" it probably helps to see some CrossView Images that work really well. So I found some really good ones.
+
+Gear Ball -
+
+![Gear Ball](./Level-12-Assets/gear-ball-crossview.gif "Gear Ball CrossView GIF")
+
+Rotating Heliosphere -
+
+![Rotating Heliosphere](./Level-12-Assets/rotating-heliosphere-crossview.gif "Rotating Heliosphere CrossView GIF")
+
+Christmas Trees -
+
+![Christmas Trees](./Level-12-Assets/christmas-crossview.gif "Christmas Trees CrossView GIF")
+
+But trying to CrossView the side by side image on level 12 doesn't work as well as these others because one of the objects is ruining the effect. The remote control.
+
+This object gives us the following login credentials:
+
+> Login: remote
+>
+> Password: control
+
 ### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 13
+
+
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
 
 ## Hints
 
