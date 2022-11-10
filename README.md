@@ -665,6 +665,17 @@ This object gives us the following login credentials:
 
 ## Level 13
 
+http://www.deathball.net/notpron/ps/beforedeath.htm
+
+Have I told you about the room which is full of people who find you to be horribly uncreative?
+
+http://www.deathball.net/notpron/ps/beforelife.htm
+
+man you are tricky!
+
+http://www.deathball.net/notpron/ps/afterlife.htm
+
+no, evil lucifer is dead 
 
 
 ### [Back To Top](#not-pron "Top Of Page")
