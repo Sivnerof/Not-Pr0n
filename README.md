@@ -665,6 +665,36 @@ This object gives us the following login credentials:
 
 ## Level 13
 
+### DISREGARD BELOW (UNFINISHED)
+
+URL: http://www.deathball.net/notpron/ps/afterdeath.htm
+
+* /ps/
+* afterdeath.htm
+
+Title: lucy not in the sky
+
+Page SubText: No Maths
+
+Comments: </!-- he's been a bad boy -->
+
+Password Hint: I live there.
+
+Image:
+
+Clock on blue sheet, time 2:01, two bears, stars moon, ring from level 10?
+
+3 numbers: 13, 4, 10
+
+5 alerts over discolorations in image:
+1. 2of5 - m, 3?
+2. 3of5 - v
+3. xof5 - l, I? | 
+4. 5of5 - L
+5. xof5 - symbol dotted, heart, b, D
+
+> ##############################################################
+
 http://www.deathball.net/notpron/ps/beforedeath.htm
 
 Have I told you about the room which is full of people who find you to be horribly uncreative?
