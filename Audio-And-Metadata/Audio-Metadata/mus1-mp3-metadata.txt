@@ -1,0 +1,44 @@
+=======================================================================
+RESULT OF RUNNING FILE COMMAND ON AUDIO
+=======================================================================
+
+mus1.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 64 kbps, 44.1 kHz, Monaural
+
+=======================================================================
+ACTUAL METADATA PULLED WITH EXIFTOOL
+=======================================================================
+
+ExifTool Version Number         : 12.40
+File Name                       : mus1.mp3
+Directory                       : .
+File Size                       : 195 KiB
+File Modification Date/Time     : 2022:11:10 21:45:31-07:00
+File Access Date/Time           : 2022:11:10 21:45:39-07:00
+File Inode Change Date/Time     : 2022:11:10 21:45:31-07:00
+File Permissions                : -rw-rw-r--
+File Type                       : MP3
+File Type Extension             : mp3
+MIME Type                       : audio/mpeg
+MPEG Audio Version              : 1
+Audio Layer                     : 3
+Audio Bitrate                   : 64 kbps
+Sample Rate                     : 44100
+Channel Mode                    : Single Channel
+MS Stereo                       : Off
+Intensity Stereo                : Off
+Copyright Flag                  : False
+Original Media                  : True
+Emphasis                        : None
+Encoder                         : LAME3.98r
+Lame VBR Quality                : 4
+Lame Quality                    : 3
+Lame Method                     : CBR
+Lame Low Pass Filter            : 16.5 kHz
+Lame Bitrate                    : 64 kbps
+Lame Stereo Mode                : Mono
+ID3 Size                        : 75
+Track                           : 1
+Title                           : mus1
+Comment                         : Hach
+Comment (xxx)                   : Hach
+Duration                        : 24.89 s (approx)

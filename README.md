@@ -687,11 +687,13 @@ Clock on blue sheet, time 2:01, two bears, stars moon, ring from level 10?
 3 numbers: 13, 4, 10
 
 5 alerts over discolorations in image:
-1. 2of5 - m, 3?
-2. 3of5 - v
-3. xof5 - l, I? | 
+1. 2of5 - M, 3?, E?
+2. 3of5 - V
+3. xof5 - I
 4. 5of5 - L
-5. xof5 - symbol dotted, heart, b, D
+5. xof5 - D
+
+DEVIL
 
 > ##############################################################
 
