@@ -16,6 +16,7 @@
 * [Level 11](#level-11 "Level 11 Section")
 * [Level 12](#level-12 "Level 12 Section")
 * [Level 13](#level-13 "Level 13 Section")
+* [Level 14](#level-14 "Level 14 Section")
 * [Hints](#hints "Hints Section")
 
 ---
@@ -665,49 +666,98 @@ This object gives us the following login credentials:
 
 ## Level 13
 
-### DISREGARD BELOW (UNFINISHED)
+Level 13 contains an image of a clock and a ring, there are 3 numbers on the image and this time there are 6 image area maps, instead of the usual 1. Five of these area maps are scattered around and look like slight discolorations in the image but they're shaped like letters. Hovering over each one triggers a different alert. The other and main area map can be found right over the clock. Clicking on this reveals a password hint, followed by the login form.
 
-URL: http://www.deathball.net/notpron/ps/afterdeath.htm
+The three numbers on the page:
 
-* /ps/
-* afterdeath.htm
+* 13 (Level number area)
+* 4 (On the clock)
+* 10 (On the ring)
 
-Title: lucy not in the sky
+Message when clicking on the clock:
 
-Page SubText: No Maths
+> Password Hint: I live there.
 
-Comments: </!-- he's been a bad boy -->
+Text underneath image:
 
-Password Hint: I live there.
+> no maths
 
-Image:
+Level URL:
 
-Clock on blue sheet, time 2:01, two bears, stars moon, ring from level 10?
+> http://www.deathball.net/notpron/ps/afterdeath.htm
 
-3 numbers: 13, 4, 10
+Document title:
 
-5 alerts over discolorations in image:
-1. 2of5 - M, 3?, E?
-2. 3of5 - V
-3. xof5 - I
-4. 5of5 - L
-5. xof5 - D
+> lucy not in the sky
 
-DEVIL
+Examining the HTML source code reveals only one comment:
 
-> ##############################################################
+```html
+<!-- he's been a bad boy -->
+```
 
-http://www.deathball.net/notpron/ps/beforedeath.htm
+The alerts produced when hovering over the discolorations claim to be part of some order (out of 5 total). But two are variable (x). The only ones that are numbered are positions 2, 3, and 5. 1 and 4 are x.
 
-Have I told you about the room which is full of people who find you to be horribly uncreative?
+* 2 of 5 - looks like it could be the letter m, letter E, or number 3.
 
-http://www.deathball.net/notpron/ps/beforelife.htm
+* 3 of 5 - Letter V
 
-man you are tricky!
+* 5 of 5 - Letter L
 
-http://www.deathball.net/notpron/ps/afterlife.htm
+* x of 5 (lower right) - Looks like uppercase I, or lowercase l.
 
-no, evil lucifer is dead 
+* x of 5 (upper left) - Letter D.
+
+Trying to arrange these letters to form a word we can start by filling in the spaces we know for sure (3 and 5).
+
+* __V_L
+
+In the second space we have 3 possibilities (m, E, 3).
+
+* _mV_L
+
+* _EV_L
+
+* _3V_L
+
+We know one of the letters is D so now we can try to put that letter in one of the empty spaces. Starting with the first empty position.
+
+* DmV_L
+
+* **DEV_L**
+
+* D3V_L
+
+And there it is DEV_L immediately sticks out. We know the symbol in the lower right (x of 5) was either I or l. Now it becomes obvious it was an I. The word is DEVIL.
+
+Now we have the username, and the password hint told us "i live there". So that gives us the following login credentials for level 14:
+
+> username: devil
+>
+> password: hell
+
+Additional Information -
+
+Messing around with the death themed URL returns some interesting easter eggs. I've only been able to find three of them and I'm not sure if any more exist. Below are the three I found and the text those URLS return.
+
+1. http://www.deathball.net/notpron/ps/beforedeath.htm
+
+    * Have I told you about the room which is full of people who find you to be horribly uncreative?
+
+2. http://www.deathball.net/notpron/ps/afterlife.htm
+
+    * no, evil lucifer is dead
+
+3. http://www.deathball.net/notpron/ps/beforelife.htm
+
+    * man you are tricky!
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 14
+
 
 
 ### [Back To Top](#not-pron "Top Of Page")
