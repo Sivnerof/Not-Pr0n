@@ -17,6 +17,7 @@
 * [Level 12](#level-12 "Level 12 Section")
 * [Level 13](#level-13 "Level 13 Section")
 * [Level 14](#level-14 "Level 14 Section")
+* [Level 15](#level-15 "Level 15 Section")
 * [Hints](#hints "Hints Section")
 
 ---
@@ -757,6 +758,52 @@ Messing around with the death themed URL returns some interesting easter eggs. I
 ---
 
 ## Level 14
+
+Level 14 contains an image that looks very similar to the image from level 5. A remote control resting on the "Big Bad Voodoo Daddy Live" album and again the image area map is over the power button. The level number 5 is crossed off and 14 is replacing it.
+
+Level URL:
+
+> http://www.deathball.net/notpron/neo/beenthere.htm
+
+Document Title:
+
+> He knew the feeling...
+
+Clikcking on the area map triggers the following message:
+
+> Password Hint: quoi?
+
+HTML Comments:
+
+```html
+<!--what language is the password hint? use it properly!-->
+```
+
+This level had me going down a lot of dead ends. From trying the level 5 credentials on this level (in English and French). Looking up the lyrics to every song on the Big Bad Voodoo Daddy Live album for references of the Matrix (based on neo being the directory name) or looking for French lyrics.
+
+It wasn't until I couldn't think of anything else to try that it became pretty obvious.
+
+The password is a French word and the only other hints are Neo, been there, he knew the feeling.
+
+On a level almost identical to one we've done before.
+
+What do Neo, a feeling, being somewhere again, french words have to do with eachother?
+
+A feeling of being somewhere again in French that Neo experienced.
+
+**Deja Vu**
+
+These were the French words that finally worked as the login credentials.
+
+> Deja
+>
+> Vu
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 15
 
 
 
