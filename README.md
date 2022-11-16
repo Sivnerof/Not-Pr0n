@@ -18,6 +18,7 @@
 * [Level 13](#level-13 "Level 13 Section")
 * [Level 14](#level-14 "Level 14 Section")
 * [Level 15](#level-15 "Level 15 Section")
+* [Level 16](#level-16 "Level 16 Section")
 * [Hints](#hints "Hints Section")
 
 ---
@@ -804,6 +805,95 @@ These were the French words that finally worked as the login credentials.
 ---
 
 ## Level 15
+
+Level 15 contains an image of rusty pipes and an area map over the top of the main pipe. Clicking on this area map reveals the following message:
+
+> Password Hint: you are on your own
+
+Level 15 URL:
+
+> http://www.deathball.net/notpron/rusty/board.htm
+
+Document Title:
+
+> hit the keys
+
+HTML Source Code Comments:
+
+
+```html
+<head>
+  <title>hit the keys</title>
+  <meta charset="utf-8"/><!-- ignore this -->
+  <audio src="../stuff/mus1.mp3" autoplay loop></audio>
+  <LINK REL="stylesheet" TYPE="text/css" HREF="../style.css" />
+  <!-- [1] 4 [2] 1 [3] 6 [2] 3 [1] 9 [3] 7
+  [2] 1 [3] 3 3 [1] 3 [2] 2 2-->
+</head>
+```
+
+```html
+<!--this message is ONLY for french people (and maybe belgium): votre clavier est erroné (sorry, just babelfish, I have no clue if it's good, but you can translate it back--> 
+```
+
+The bulk of this levels information can be found in the <abbr title="Hyper Text MarkUp Language">HTML</abbr> comments. One big hint comes at the bottom as a message to French and possibly Belgium users.
+
+It tells them (in French) that their "keyboards are wrong". The writer also claims he used the [Babelfish translator](https://www.babelfish.com/ "Babelfish Translator Website") to write those words.
+
+Looking up "French Keyboard Layout" in DuckDuckGo we can find some articles explaining the [differences between French and American keyboards](https://frenchly.us/qwerty-vs-azerty-why-are-french-and-us-keyboards-different/ "Article on French VS American Keyboards").
+
+The French apparently use [AZERTY](https://en.wikipedia.org/wiki/AZERTY "AZERTY Keyboard Wikipedia") keyboards instead of QWERTY.
+
+![AZERTY Keyboard](./Level-15-Assets/french-keyboard.jpg "Image of AZERTY keyboard layout")
+
+So we know that this level has to do with our keyboard (```/rusty/board```, "hit the keys", "your keyboard is wrong") and that if we have the wrong keyboard our answer won't work.
+
+Now going back to the other <abbr title="Hyper Text MarkUp Language">HTML</abbr> comment.
+
+This could have easily been written on one line. But instead was broken in two.
+
+```html
+<!-- [1] 4 [2] 1 [3] 6 [2] 3 [1] 9 [3] 7 [2] 1 [3] 3 3 [1] 3 [2] 2 2-->
+```
+
+```html
+<!-- [1] 4 [2] 1 [3] 6 [2] 3 [1] 9 [3] 7
+[2] 1 [3] 3 3 [1] 3 [2] 2 2-->
+```
+
+So maybe the first line is the username, and second is the password.
+
+It also looks like coordinates or a mapping. The first number in ```[]```, and the second without brackets relate to each other in some way.
+
+The numbers in brackets only go up to 3, and the highest second number is 9.
+
+Looking for things with either 3 columns 9 rows, or 9 columns 3 rows that relate to a keyboard. It becomes obvious. These numbers are keyboard coordinates. The 3 alphabetical rows on the keyboard and their colums.
+
+First Line (Username):
+
+|            |   |   |   |   |   |   |
+|------------|---|---|---|---|---|---|
+| **ROW**    | 1 | 2 | 3 | 2 | 1 | 3 |
+| **COLUMN** | 4 | 1 | 6 | 3 | 9 | 7 |
+| **KEY**    | r | a | n | d | o | m |
+
+Second Line (Password):
+
+|            |   |     |   |     |
+|------------|---|-----|---|-----|
+| **ROW**    | 2 | 3   | 1 | 2   |
+| **COLUMN** | 1 | 3 3 | 3 | 2 2 |
+| **KEY**    | a | cc  | e | ss  |
+
+> Username: random
+>
+> Password: access
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 16
 
 
 
