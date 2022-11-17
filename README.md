@@ -897,6 +897,71 @@ Second Line (Password):
 
 
 
+Level 16 URL:
+
+> http://www.deathball.net/notpron/zoo/mznvh.htm
+
+Password Hint:
+
+> Password Hint: déjà vu?
+
+Document Title:
+
+> resume
+
+```html
+<html>
+<head>
+  <title>resume</title>
+  <meta charset="utf-8"/><!-- ignore this -->
+  <audio src="../stuff/mus1.mp3" autoplay loop></audio><!-- # = ellwll/hrnkov/proo/... -->
+  <LINK REL="stylesheet" TYPE="text/css" HREF="../style.css" />
+</head>
+<!-- invert az-->
+<body>
+<center><img src="screen16.jpg" usemap="#no" border="0">
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <br>
+  <a href="http://www.pokerstars.com/?source=10140242"><img src="http://www.pokerstars.com/images/25x25_icon_spade_2.jpg" alt="Make Money" width="25" height="25" border="0"></a>
+</center>
+
+<map name="no">
+  <area shape="rect" coords="480,360,640,480" href="../finale/pron.htm"  onclick="alert('Password Hint: déjà vu?')">
+</map>
+
+
+
+
+<!--I know, at this point you regret not having saved all passwords and URLs of the previous levels. But I tell you, start doing it now, or you might regret it much more later!-->
+
+
+</body>
+
+</html>
+```
+
 ### [Back To Top](#not-pron "Top Of Page")
 
 ---
