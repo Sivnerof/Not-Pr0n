@@ -918,48 +918,10 @@ Document Title:
   <LINK REL="stylesheet" TYPE="text/css" HREF="../style.css" />
 </head>
 <!-- invert az-->
-<body>
-<center><img src="screen16.jpg" usemap="#no" border="0">
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <br>
-  <a href="http://www.pokerstars.com/?source=10140242"><img src="http://www.pokerstars.com/images/25x25_icon_spade_2.jpg" alt="Make Money" width="25" height="25" border="0"></a>
-</center>
+```
 
-<map name="no">
-  <area shape="rect" coords="480,360,640,480" href="../finale/pron.htm"  onclick="alert('Password Hint: déjà vu?')">
-</map>
-
-
-
-
+```html
 <!--I know, at this point you regret not having saved all passwords and URLs of the previous levels. But I tell you, start doing it now, or you might regret it much more later!-->
-
-
-</body>
-
-</html>
 ```
 
 0  0  0 4
