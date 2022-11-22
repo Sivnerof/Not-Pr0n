@@ -895,8 +895,6 @@ Second Line (Password):
 
 ## Level 16
 
-
-
 Level 16 URL:
 
 > http://www.deathball.net/notpron/zoo/mznvh.htm
@@ -924,10 +922,43 @@ Document Title:
 <!--I know, at this point you regret not having saved all passwords and URLs of the previous levels. But I tell you, start doing it now, or you might regret it much more later!-->
 ```
 
+```
 0  0  0 4
 5# 3# 0 2#
 5  0  1# 1
 1  2  1
+```
+
+4. voodoo:magic 4
+5. simple:songs 5#
+6. kill:zone #3
+
+8. inverted:tenthlevel 2#
+9. turnmeon:deadman 5
+
+11. fucking:pans 1#
+12. remote:control 1
+13. devil:hell 1
+14. deja:vu 2
+15. random:access 1
+
+ellwll/hrnkov/proo/
+
+zoo/mznvh
+
+Atbash
+
+voodoo/simple/kill/
+
+all/names
+
+d   m rder
+ lln f
+ oom u
+
+doom murder
+
+![Atbash Deciphered](./Level-16-Assets/atbash-cypher.png "Atbash Directories Deciphered")
 
 ### [Back To Top](#not-pron "Top Of Page")
 
