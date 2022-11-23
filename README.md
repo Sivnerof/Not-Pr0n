@@ -20,6 +20,7 @@
 * [Level 15](#level-15 "Level 15 Section")
 * [Level 16](#level-16 "Level 16 Section")
 * [Level 17](#level-17 "Level 17 Section")
+* [Level 18](#level-18 "Level 18 Section")
 * [Hints](#hints "Hints Section")
 
 ---
@@ -1023,6 +1024,110 @@ Now we have the login credentials for level 17.
 ---
 
 ## Level 17
+
+Level 17 was quicker to solve than the others. This level contains an image with no area map. So getting to the next level will involve changing the URL.
+
+Level URL -
+
+> http://www.deathball.net/notpron/finale/pron.htm
+
+Document Title -
+
+> aliens are coming
+
+HTML Comments -
+
+```html
+<p><img src="screen17.jpg"></p><!--what am I?-->
+```
+
+The comment in the HTML source code is right next to the image tag and asks us "what am I?", so we need to identify what the image is and use that word in the URL to get to the next level.
+
+The image looks like a very bright light, kind of shaped like a ufo. That's probably why the document title is "aliens are coming".
+
+At first I tried looking at the image URL to look for any clues.
+
+> http://www.deathball.net/notpron/finale/screen17.jpg
+
+Here I found that changing the screen numbers returned some Easter Eggs. The image used for this level is saved as [screen17.jpg](./Level-17-Assets/index.jpeg "screen17"). But there's also a [screen18.jpg](./Level-17-Assets/index-2.jpeg "screen18"), and a [screen20.jpg](./Level-17-Assets/index-3.jpeg "screen20"). Here are those images...
+
+[screen17.jpg](./Level-17-Assets/index.jpeg "screen17"):
+
+> http://www.deathball.net/notpron/finale/screen17.jpg
+
+![screen17.jpg](./Level-17-Assets/index.jpeg "screen17")
+
+[screen18.jpg](./Level-17-Assets/index-2.jpeg "screen18"):
+
+> http://www.deathball.net/notpron/finale/screen18.jpg
+
+![screen18.jpg](./Level-17-Assets/index-2.jpeg "screen18")
+
+But visiting the following URL looking for screen19 returns an error.
+
+> http://www.deathball.net/notpron/finale/screen19.jpg
+
+So you would think the extra images end, but they don't.
+
+[screen20.jpg](./Level-17-Assets/index-3.jpeg "screen20"):
+
+> http://www.deathball.net/notpron/finale/screen20.jpg
+
+![screen20.jpg](./Level-17-Assets/index-3.jpeg "screen20")
+
+None of these images hint at what the object in the image is though.
+
+So I started guessing what it could be, the sun, an egg, eclipse, ufo, etc. Many of these guesses led nowhere. But some returned Easter eggs. Here are the URL's that lead to those along with the text at those pages.
+
+The Sun -
+
+http://www.deathball.net/notpron/finale/sun.htm
+> you wish
+
+A UFO -
+
+http://www.deathball.net/notpron/finale/ufo.htm
+> hello mulder, you won't believe it, but it's no aliens!!
+
+An Egg -
+
+http://www.deathball.net/notpron/finale/egg.htm
+> gack gaaaack....no fool.......eggs are different
+
+A Light -
+
+http://www.deathball.net/notpron/finale/light.htm
+> that would be a bit too easy...
+
+Changing pron.htm to notpron.htm -
+
+http://www.deathball.net/notpron/finale/notpron.htm
+> Wrong way......no pron is always wrong! :P
+* (This URL contained an image named [youaskedforit.jpg](./Level-17-Assets/youaskedforit.jpg "You Asked For It Image"))
+
+![youaskedforit.jpg](./Level-17-Assets/youaskedforit.jpg "You Asked For It Image")
+
+And finally the object that leads to level 18...
+
+**A Lamp** -
+
+http://www.deathball.net/notpron/finale/lamp.htm
+
+Side Note -
+
+Messing around with the URL made me realize I never tried changing the ```notpron``` directory to ```pron```, this led me to the following image.
+
+http://notpron.org/pron/ -
+
+![pron.jpg](./Level-17-Assets/pron.jpg "Pron Image")
+
+Then I noticed something else. The letter ```p``` at the upper right corner. The image I found before on this level ([youaskedforit.jpg](./Level-17-Assets/youaskedforit.jpg "You Asked For It Image")) had the letter ```o``` in the lower right corner. I'm not sure what it means, maybe clues for another level.
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 18
 
 
 

@@ -29,3 +29,15 @@
 15. http://www.deathball.net/notpron/rusty/board.htm
 16. http://www.deathball.net/notpron/zoo/mznvh.htm
 17. http://www.deathball.net/notpron/finale/pron.htm
+    * http://www.deathball.net/notpron/finale/sun.htm
+    * http://www.deathball.net/notpron/finale/ufo.htm
+    * http://www.deathball.net/notpron/finale/egg.htm
+    * http://www.deathball.net/notpron/finale/light.htm
+    * http://www.deathball.net/notpron/finale/lamp.htm
+    * http://www.deathball.net/notpron/finale/notpron.htm
+    * http://www.deathball.net/notpron/finale/screen17.jpg
+    * http://www.deathball.net/notpron/finale/screen18.jpg
+    * http://www.deathball.net/notpron/finale/screen19.jpg
+    * http://www.deathball.net/notpron/finale/screen20.jpg
+    * http://www.deathball.net/notpron/finale/youaskedforit.jpg
+18. http://www.deathball.net/notpron/finale/lamp.htm
