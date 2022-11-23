@@ -19,6 +19,7 @@
 * [Level 14](#level-14 "Level 14 Section")
 * [Level 15](#level-15 "Level 15 Section")
 * [Level 16](#level-16 "Level 16 Section")
+* [Level 17](#level-17 "Level 17 Section")
 * [Hints](#hints "Hints Section")
 
 ---
@@ -895,6 +896,8 @@ Second Line (Password):
 
 ## Level 16
 
+This level took me the longest to figure out. It contains an image of all the level images so far (16 total) with numbers over them. The area map can be found on the last section of the image (the one with no number over it). When clicking on the last section we get a password hint followed by a login form.
+
 Level 16 URL:
 
 > http://www.deathball.net/notpron/zoo/mznvh.htm
@@ -907,8 +910,9 @@ Document Title:
 
 > resume
 
+HTML Comments:
+
 ```html
-<html>
 <head>
   <title>resume</title>
   <meta charset="utf-8"/><!-- ignore this -->
@@ -922,43 +926,105 @@ Document Title:
 <!--I know, at this point you regret not having saved all passwords and URLs of the previous levels. But I tell you, start doing it now, or you might regret it much more later!-->
 ```
 
+Looking at the comments gives us a hint that the username and password for this level has something to do with the usernames and passwords from previous levels. So I made a [file for all URLS](./Level-URLs/level-urls.md "Level URL's File") and another [file for all level credentials](./Passwords/passwords.md "Username/Passwords File").
+
+If we put the numbers found on the image in a 4x4 grid just like how they are on the image it would look something like this.
+
+|    |    |    |    |
+|----|----|----|----|
+| 0  | 0  | 0  | 4  |
+| 5# | 3# | 0  | 2# |
+| 5  | 0  | 1# | 1  |
+| 1  | 2  | 1  |    |
+
+One thing that's noticed right away is that the image sections with a 0 over them are the levels without usernames and passwords. That leaves us trying to figure out the meaning of the other numbers.
+
+| **LEVEL** | **CREDENTIALS**     | **NUMBER** |
+|-----------|---------------------|------------|
+| 4         | voodoo:magic        | 4          |
+| 5         | simple:songs        | 5#         |
+| 6         | kill:zone           | 3#         |
+| 8         | inverted:tenthlevel | 2#         |
+| 9         | turnmeon:deadman    | 5          |
+| 11        | fucking:pans        | 1#         |
+| 12        | remote:control      | 1          |
+| 13        | devil:hell          | 1          |
+| 14        | deja:vu             | 2          |
+| 15        | random:access       | 1          |
+
+There are two groups, regular numbers and the ones with a pound sign.
+
+In the comments it tells us that "**# = ellwll/hrnkov/proo/...**".
+
+At first I thought this was a [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher "Caesar Cipher Wikipedia") or a [Vigenere](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher "Vigenere Cipher Wikipedia") but it's actually an [Atbash Cipher](https://en.wikipedia.org/wiki/Atbash "Atbash Cipher Wikipedia").
+
+Atbash is a simple cipher often referred to as "mirror code" where a letter is mapped to its reverse (A=Z, B=Y, C=X, Z=A, Y=B, C=X, etc).
+
+Hence the hint "inverse a-z".
+
+Atbash Table (Taken From Wikipedia)-
+
+<table><tbody><tr style="vertical-align:top"><th scope="row">  Plain</th><td>  A</td><td>B</td><td>C</td><td>D</td><td>E</td><td>F</td><td>G</td><td>H</td><td>I</td><td>J</td><td>K</td><td>L</td><td>M</td><td>N</td><td>O</td><td>P</td><td>Q</td><td>R</td><td>S</td><td>T</td><td>U</td><td>V</td><td>W</td><td>X</td><td>Y</td><td>Z</td></tr><tr style="vertical-align:top"><th scope="row">  Cipher</th><td> Z</td><td>Y</td><td>X</td><td>W</td><td>V</td><td>U</td><td>T</td><td>S</td><td>R</td><td>Q</td><td>P</td><td>O</td><td>N</td><td>M</td><td>L</td><td>K</td><td>J</td><td>I</td><td>H</td><td>G</td><td>F</td><td>E</td><td>D</td><td>C</td><td>B</td><td>A</td></tr></tbody></table>
+
+We can decrypt ```ellwll/hrnkov/proo/``` with the table above or we can use a tool like [CyberChef](https://cyberchef.org/ "Cyber Chef Website").
+
+We can also decrypt this section of the URL ```/zoo/mznvh```.
+
+![Atbash Deciphered](./Level-16-Assets/atbash-cypher.png "Atbash Directories Deciphered")
+
+So ```ellwll/hrnkov/proo/``` and ```zoo/mznvh``` decrypted are ```voodoo/simple/kill/``` and ```all/names```.
+
+But what does this have to do with the credentials for this level?
+
+Well ```all/names``` probably refers to the fact that these numbers have to be taken from the usernames (example- 4 would mean 4th letter of that username).
+
+And ```# = ellwll/hrnkov/proo/``` refers to the fact that numbers with the pound represent letters that have to also be "inverted" (example- 4# would mean take the 4th letter of the username and invert that letter).
+
+We can start this whole proccess by taking all the letters at the number given for all usernames.
+
+| **USERNAME** | **NUMBER** | **LETTER AT POSITION** |
+|--------------|------------|------------------------|
+| voodoo       | 4          | d                      |
+| simple       | 5#         | l                      |
+| kill         | 3#         | l                      |
+| inverted     | 2#         | n                      |
+| turnmeon     | 5          | m                      |
+| fucking      | 1#         | f                      |
+| remote       | 1          | r                      |
+| devil        | 1          | d                      |
+| deja         | 2          | e                      |
+| random       | 1          | r                      |
+
+That process gives us these letters.
+
+> dllnmfrder
+
+And if we invert the letters from the levels with a pound sign after a number we get these new letters.
+
+> doommurder
+
 ```
-0  0  0 4
-5# 3# 0 2#
-5  0  1# 1
-1  2  1
-```
-
-4. voodoo:magic 4
-5. simple:songs 5#
-6. kill:zone #3
-
-8. inverted:tenthlevel 2#
-9. turnmeon:deadman 5
-
-11. fucking:pans 1#
-12. remote:control 1
-13. devil:hell 1
-14. deja:vu 2
-15. random:access 1
-
-ellwll/hrnkov/proo/
-
-zoo/mznvh
-
-Atbash
-
-voodoo/simple/kill/
-
-all/names
-
+dllnmfrder
 d   m rder
  lln f
  oom u
+-----------
+doommurder
+```
 
-doom murder
+Now we have the login credentials for level 17.
 
-![Atbash Deciphered](./Level-16-Assets/atbash-cypher.png "Atbash Directories Deciphered")
+> Username: doom
+>
+> Password: murder
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 17
+
+
 
 ### [Back To Top](#not-pron "Top Of Page")
 

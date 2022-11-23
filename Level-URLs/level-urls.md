@@ -27,4 +27,5 @@
     * http://www.deathball.net/notpron/ps/beforelife.htm
 14. http://www.deathball.net/notpron/neo/beenthere.htm
 15. http://www.deathball.net/notpron/rusty/board.htm
-16.
+16. http://www.deathball.net/notpron/zoo/mznvh.htm
+17. http://www.deathball.net/notpron/finale/pron.htm
