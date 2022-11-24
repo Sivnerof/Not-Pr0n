@@ -1129,7 +1129,68 @@ Then I noticed something else. The letter ```p``` at the upper right corner. The
 
 ## Level 18
 
+DISREGARD BELOW, THESE ARE UNIFINISHED NOTES AND MAY MEAN NOTHING.
 
+No Area Map
+
+Level URL -
+
+> http://www.deathball.net/notpron/finale/lamp.htm
+
+Level Image URL -
+
+> http://www.deathball.net/notpron/finale/screen18a.jpg
+
+Document Title -
+
+> sorry, going on for some more time
+
+HTML Comments -
+
+```html
+<!-- what the heck is the 'a' for? why not a 'b'? or nothing at all? -->
+```
+
+Other Interesting Things In HTML -
+```html
+<audio src="mus4.mp3" autoplay loop></audio>
+```
+
+URLS Found -
+http://www.deathball.net/notpron/finale/screen17.jpg
+
+http://www.deathball.net/notpron/finale/screen18a.jpg
+http://www.deathball.net/notpron/finale/screen18b.jpg
+http://www.deathball.net/notpron/finale/screen18c.jpg
+http://www.deathball.net/notpron/finale/screen18d.jpg
+http://www.deathball.net/notpron/finale/screen18e.jpg
+http://www.deathball.net/notpron/finale/screen18f.jpg
+http://www.deathball.net/notpron/finale/screen18g.jpg
+http://www.deathball.net/notpron/finale/screen18h.jpg
+
+dead links until m
+
+ijkl
+
+http://www.deathball.net/notpron/finale/screen18m.jpg
+http://www.deathball.net/notpron/finale/screen18n.jpg
+http://www.deathball.net/notpron/finale/screen18o.jpg
+http://www.deathball.net/notpron/finale/screen18p.jpg
+http://www.deathball.net/notpron/finale/screen18q.jpg
+http://www.deathball.net/notpron/finale/screen18r.jpg
+http://www.deathball.net/notpron/finale/screen18s.jpg
+http://www.deathball.net/notpron/finale/screen18t.jpg
+http://www.deathball.net/notpron/finale/screen18u.jpg
+http://www.deathball.net/notpron/finale/screen18v.jpg
+
+http://www.deathball.net/notpron/finale/screen18x.jpg
+http://www.deathball.net/notpron/finale/screen18w.jpg
+http://www.deathball.net/notpron/finale/screen18y.jpg
+http://www.deathball.net/notpron/finale/screen18z.jpg
+
+http://www.deathball.net/notpron/finale/screen20.jpg
+
+http://www.deathball.net/notpron/finale/mus4.mp3
 
 ### [Back To Top](#not-pron "Top Of Page")
 
