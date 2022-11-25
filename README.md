@@ -21,6 +21,7 @@
 * [Level 16](#level-16 "Level 16 Section")
 * [Level 17](#level-17 "Level 17 Section")
 * [Level 18](#level-18 "Level 18 Section")
+* [Level 19](#level-19 "Level 19 Section")
 * [Hints](#hints "Hints Section")
 
 ---
@@ -1261,7 +1262,66 @@ http://www.deathball.net/notpron/finale/screen18z.jpg -
 http://www.deathball.net/notpron/finale/screen20.jpg -
 ![screen20.jpg](./Level-18-Assets/screen20.jpg "Screen 20")
 
-http://www.deathball.net/notpron/finale/mus4.mp3
+That's where the image rabbit hole ended as far as I could tell. This ended up leading nowhere, which I kind of knew it would, because the weirdest thing about this level was the [mus4.mp3](./Level-18-Assets/mus4.mp3 "Audio File") file.
+
+This is the first time the audio file has been used. Listening to it you can hear a piano but it's not a song, there is no melody just random notes.
+
+If you run the linux ```file``` command on [mus4.mp3](./Level-18-Assets/mus4.mp3 "Audio File") you would think it would return "Audio file", but instead it returns the word "data".
+
+Linux ```file``` command on [mus1.mp3](./Audio-And-Metadata/Audio/mus1.mp3):
+
+```
+mus1.mp3: Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 64 kbps, 44.1 kHz, Monaural
+```
+
+Linux ```file``` command on [mus3.mp3](./Audio-And-Metadata/Audio/mus3.mp3):
+
+```
+mus3.mp3: Audio file with ID3 version 2.4.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo
+```
+
+Linux ```file``` command on [mus4.mp3](./Audio-And-Metadata/Audio/mus4.mp3):
+
+```
+mus4.mp3: data
+```
+
+Another interesting thing can be found in the [metadata of the audio file](./Audio-And-Metadata/Audio-Metadata/mus4-mp3-metadata.txt "mus4.mp3 metadata"). There is a comment that reads "toll eh" (backwards for he llot).
+
+As for the notes in the audio file, there are 8 total. We can view them by using a tool like [Audacity](https://www.audacityteam.org/ "Audacity Website").
+
+![mus4.mp3 Audio Waves](./Level-18-Assets/all-notes.png "Audio Waves of mus4.mp3 audio file")
+
+But because I know nothing about identifying notes I had to look for a website that could take an audio file and produce the corresponding note. It took awhile but I finally found one called [Tunebat](https://tunebat.com/Analyzer "Tunebat Song Analyzer"). The only problem was it wouldn't work on the whole file (it just kept saying the file was "A minor").
+
+So I had to cut every note in Audacity and save them to their own individual files and upload those one by one.
+
+Notes -
+
+1. [note-1.mp3](./Level-18-Assets/note-1.mp3 "Note 1 mp3 file") - D Minor
+1. [note-2.mp3](./Level-18-Assets/note-2.mp3 "Note 2 mp3 file") - E Minor
+1. [note-3.mp3](./Level-18-Assets/note-3.mp3 "Note 3 mp3 file") - A Minor
+1. [note-4.mp3](./Level-18-Assets/note-4.mp3 "Note 4 mp3 file") - F Minor
+1. [note-5.mp3](./Level-18-Assets/note-5.mp3 "Note 5 mp3 file") - D Minor
+1. [note-6.mp3](./Level-18-Assets/note-6.mp3 "Note 6 mp3 file") - E Minor
+1. [note-7.mp3](./Level-18-Assets/note-7.mp3 "Note 7 mp3 file") - A Minor
+1. [note-8.mp3](./Level-18-Assets/note-8.mp3 "Note 8 mp3 file") - F Minor
+
+![Tunebat Output](./Level-18-Assets/music-notes.png "Output from Tunebat website for audio files")
+
+So the 8 keys we hear in the audio file (D, E, A, F, D, E, A, F) represent the word "deaf".
+
+Finally to move on to the next level all we have to do is replace ```lamp.htm``` with ```deaf.htm```.
+
+> http://www.deathball.net/notpron/finale/deaf.htm
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 19
+
+
 
 ### [Back To Top](#not-pron "Top Of Page")
 
