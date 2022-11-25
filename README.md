@@ -1129,9 +1129,7 @@ Then I noticed something else. The letter ```p``` at the upper right corner. The
 
 ## Level 18
 
-DISREGARD BELOW, THESE ARE UNIFINISHED NOTES AND MAY MEAN NOTHING.
-
-No Area Map
+Level 18 contains a close up image of piano keys. There is no area map over the image, so again this level will involve changing the URL somehow.
 
 Level URL -
 
@@ -1156,39 +1154,112 @@ Other Interesting Things In HTML -
 <audio src="mus4.mp3" autoplay loop></audio>
 ```
 
-URLS Found -
-http://www.deathball.net/notpron/finale/screen17.jpg
+Starting with the HTML comment that said "what the heck is the 'a' for? why not a 'b'? or nothing at all?". This question was referencing the naming scheme Not Pron uses for its images. All images have the name ```screen``` followed by the level number. All level images follow this format so far except level 8 and this level. Maybe all levels that end in 8 will do this. The image for level 18 is called "screen18a.jpg", which means there must be an 18b, 18c, etc.
 
-http://www.deathball.net/notpron/finale/screen18a.jpg
-http://www.deathball.net/notpron/finale/screen18b.jpg
-http://www.deathball.net/notpron/finale/screen18c.jpg
-http://www.deathball.net/notpron/finale/screen18d.jpg
-http://www.deathball.net/notpron/finale/screen18e.jpg
-http://www.deathball.net/notpron/finale/screen18f.jpg
-http://www.deathball.net/notpron/finale/screen18g.jpg
-http://www.deathball.net/notpron/finale/screen18h.jpg
+Looking for these images leads down a huge rabbit hole of images that do not help with moving to the next level, but I think some of them may be useful in future levels, so I saved them all in the [Level-18-Assets](./Level-18-Assets/ "Level 18 Assets Folder") folder.
 
-dead links until m
+Below are the images that I found in the ```/finale/``` directory. Starting with screen17.jpg (previous level image) and ending with screen20.jpg. The only images I wont link here are the ones of nude models. You can find those in the [Level-18-Assets](./Level-18-Assets/ "Level 18 Assets Folder") folder.
 
-ijkl
+An interesting thing to note about the <abbr title="Not Safe For Work">NSFW</abbr> images is that they all contain a semi-visible letter in one of the corners (not sure what it means yet). Anyway here are the images...
 
-http://www.deathball.net/notpron/finale/screen18m.jpg
-http://www.deathball.net/notpron/finale/screen18n.jpg
-http://www.deathball.net/notpron/finale/screen18o.jpg
-http://www.deathball.net/notpron/finale/screen18p.jpg
-http://www.deathball.net/notpron/finale/screen18q.jpg
-http://www.deathball.net/notpron/finale/screen18r.jpg
-http://www.deathball.net/notpron/finale/screen18s.jpg
-http://www.deathball.net/notpron/finale/screen18t.jpg
-http://www.deathball.net/notpron/finale/screen18u.jpg
-http://www.deathball.net/notpron/finale/screen18v.jpg
+http://www.deathball.net/notpron/finale/screen17.jpg -
+![screen17.jpg](./Level-18-Assets/screen17.jpg "Screen 17")
 
-http://www.deathball.net/notpron/finale/screen18x.jpg
-http://www.deathball.net/notpron/finale/screen18w.jpg
-http://www.deathball.net/notpron/finale/screen18y.jpg
-http://www.deathball.net/notpron/finale/screen18z.jpg
+http://www.deathball.net/notpron/finale/screen18.jpg -
+![screen18.jpg](./Level-18-Assets/screen18.jpg "Screen 18")
 
-http://www.deathball.net/notpron/finale/screen20.jpg
+http://www.deathball.net/notpron/finale/screen18a.jpg -
+![screen18a.jpg](./Level-18-Assets/screen18a.jpg "Screen 18a")
+
+http://www.deathball.net/notpron/finale/screen18b.jpg -
+![screen18b.jpg](./Level-18-Assets/screen18b.jpg "Screen 18b")
+
+http://www.deathball.net/notpron/finale/screen18c.jpg -
+![screen18c.jpg](./Level-18-Assets/screen18c.jpg "Screen 18c")
+
+http://www.deathball.net/notpron/finale/screen18d.jpg -
+![screen18d.jpg](./Level-18-Assets/screen18d.jpg "Screen 18d")
+
+http://www.deathball.net/notpron/finale/screen18e.jpg -
+![screen18e.jpg](./Level-18-Assets/screen18e.jpg "Screen 18e")
+
+http://www.deathball.net/notpron/finale/screen18f.jpg -
+![screen18f.jpg](./Level-18-Assets/screen18f.jpg "Screen 18f")
+
+http://www.deathball.net/notpron/finale/screen18g.jpg -
+![screen18g.jpg](./Level-18-Assets/screen18g.jpg "Screen 18g")
+
+http://www.deathball.net/notpron/finale/screen18h.jpg -
+![screen18h.jpg](./Level-18-Assets/screen18h.jpg "Screen 18h")
+
+screen18i.jpg -
+* Missing
+
+screen18j.jpg -
+* Missing
+
+screen18k.jpg -
+* Missing
+
+screen18l.jpg -
+* Missing
+
+http://www.deathball.net/notpron/finale/screen18m.jpg -
+![screen18m.jpg](./Level-18-Assets/screen18m.jpg "Screen 18m")
+
+http://www.deathball.net/notpron/finale/screen18n.jpg -
+
+* (<abbr title="Not Safe For Work">NSFW</abbr>)
+Won't show this one here. It's an [image of a womans breasts](./Level-18-Assets/screen18n.jpg "Womans Breasts"). Letter "r" in upper left corner.
+
+http://www.deathball.net/notpron/finale/screen18o.jpg -
+![screen18o.jpg](./Level-18-Assets/screen18o.jpg "Screen 18o")
+
+http://www.deathball.net/notpron/finale/screen18p.jpg -
+
+* (<abbr title="Not Safe For Work">NSFW</abbr>)
+Won't show this one here. It's an [image of a nude model](./Level-18-Assets/screen18p.jpg "Nude Model"). Letter "n" in lower left corner.
+
+http://www.deathball.net/notpron/finale/screen18q.jpg -
+![screen18q.jpg](./Level-18-Assets/screen18q.jpg "Screen 18q")
+
+http://www.deathball.net/notpron/finale/screen18r.jpg -
+![screen18r.jpg](./Level-18-Assets/screen18r.jpg "Screen 18r")
+
+http://www.deathball.net/notpron/finale/screen18s.jpg -
+
+* (<abbr title="Not Safe For Work">NSFW</abbr>)
+Won't show this one here. It's a [close up image of a womans breasts](./Level-18-Assets/screen18s.jpg "Womans Breasts"). Letter "o" in upper right corner.
+
+http://www.deathball.net/notpron/finale/screen18t.jpg -
+![screen18t.jpg](./Level-18-Assets/screen18t.jpg "Screen 18t")
+
+http://www.deathball.net/notpron/finale/screen18u.jpg -
+![screen18u.jpg](./Level-18-Assets/screen18u.jpg "Screen 18u")
+
+http://www.deathball.net/notpron/finale/screen18v.jpg -
+![screen18v.jpg](./Level-18-Assets/screen18v.jpg "Screen 18v")
+
+http://www.deathball.net/notpron/finale/screen18w.jpg -
+![screen18w.jpg](./Level-18-Assets/screen18w.jpg "Screen 18w")
+
+http://www.deathball.net/notpron/finale/screen18x.jpg -
+
+* (<abbr title="Not Safe For Work">NSFW</abbr>)
+Won't show this one here. It's an [image of a nude model on beach](./Level-18-Assets/screen18x.jpg "Nude Model On Beach"). Letter "g" in lower right corner.
+
+
+http://www.deathball.net/notpron/finale/screen18y.jpg -
+![screen18y.jpg](./Level-18-Assets/screen18y.jpg "Screen 18y")
+
+* (<abbr title="Not Safe For Work">NSFW</abbr>)
+Won't show this one here. It's a 404 error message, where the 0 (in 404) is instead a [closeup image of a womans right breast](./Level-18-Assets/screen18y.jpg "Womans Right Breast Closeup").
+
+http://www.deathball.net/notpron/finale/screen18z.jpg -
+![screen18z.jpg](./Level-18-Assets/screen18z.jpg "Screen 18z")
+
+http://www.deathball.net/notpron/finale/screen20.jpg -
+![screen20.jpg](./Level-18-Assets/screen20.jpg "Screen 20")
 
 http://www.deathball.net/notpron/finale/mus4.mp3
 
