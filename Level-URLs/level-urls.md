@@ -41,3 +41,29 @@
     * http://www.deathball.net/notpron/finale/screen20.jpg
     * http://www.deathball.net/notpron/finale/youaskedforit.jpg
 18. http://www.deathball.net/notpron/finale/lamp.htm
+    * http://www.deathball.net/notpron/finale/screen17.jpg
+    * http://www.deathball.net/notpron/finale/screen18.jpg
+    * http://www.deathball.net/notpron/finale/screen18a.jpg
+    * http://www.deathball.net/notpron/finale/screen18b.jpg
+    * http://www.deathball.net/notpron/finale/screen18c.jpg
+    * http://www.deathball.net/notpron/finale/screen18d.jpg
+    * http://www.deathball.net/notpron/finale/screen18e.jpg
+    * http://www.deathball.net/notpron/finale/screen18f.jpg
+    * http://www.deathball.net/notpron/finale/screen18g.jpg
+    * http://www.deathball.net/notpron/finale/screen18h.jpg
+    * http://www.deathball.net/notpron/finale/screen18m.jpg
+    * http://www.deathball.net/notpron/finale/screen18n.jpg
+    * http://www.deathball.net/notpron/finale/screen18o.jpg
+    * http://www.deathball.net/notpron/finale/screen18p.jpg
+    * http://www.deathball.net/notpron/finale/screen18q.jpg
+    * http://www.deathball.net/notpron/finale/screen18r.jpg
+    * http://www.deathball.net/notpron/finale/screen18s.jpg
+    * http://www.deathball.net/notpron/finale/screen18t.jpg
+    * http://www.deathball.net/notpron/finale/screen18u.jpg
+    * http://www.deathball.net/notpron/finale/screen18v.jpg
+    * http://www.deathball.net/notpron/finale/screen18w.jpg
+    * http://www.deathball.net/notpron/finale/screen18x.jpg
+    * http://www.deathball.net/notpron/finale/screen18y.jpg
+    * http://www.deathball.net/notpron/finale/screen18z.jpg
+    * http://www.deathball.net/notpron/finale/screen20.jpg
+19. http://www.deathball.net/notpron/finale/lamp.htm
