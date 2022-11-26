@@ -22,6 +22,7 @@
 * [Level 17](#level-17 "Level 17 Section")
 * [Level 18](#level-18 "Level 18 Section")
 * [Level 19](#level-19 "Level 19 Section")
+* [Level 20](#level-20 "Level 20 Section")
 * [Hints](#hints "Hints Section")
 
 ---
@@ -1320,6 +1321,59 @@ Finally to move on to the next level all we have to do is replace ```lamp.htm```
 ---
 
 ## Level 19
+
+Level 19 contains an image of a distorted arm giving us the middle finger. There is an area map over the finger nail area that when clicked on gives us a password "hint", followed by a login form.
+
+Level URL -
+> http://www.deathball.net/notpron/finale/deaf.htm
+
+Image URL -
+> http://www.deathball.net/notpron/finale/scr34n19.jpg
+
+Document Title -
+> he moved it into the right direction
+
+Clicking Area Map -
+> Password Hint: 0_o
+
+HTML Comments -
+
+```html
+<!--vovtvbm tuvgg-->
+```
+
+So we finally see the missing screen19 JPEG ([scr34n19.jpg](./Images-And-Metadata/Images/scr34n19.jpg "Level 19 Screen")). We couldn't find it before because the two e's in screen were replaced with the number 34. Which is still weird, because if the goal was to use Leetspeak on the "ee" in "screen" it should be "33" not "34". I'm not sure if this will be relevant in a future level or if it's just a typo.
+
+There's also another image called "scr34n20.jpg".
+
+http://www.deathball.net/notpron/finale/scr34n20.jpg -
+![scr34n20.jpg](./Level-19-Assets/scr34n20.jpg "scr34n20.jpg")
+
+Back to solving this level...
+
+This level is really easy to solve, the HTML comment that says "**vovtvbm tuvgg**" is clearly two encrypted words.
+
+If we start by assuming it's a [Caesar Cipher](https://en.wikipedia.org/wiki/Caesar_cipher "Caesar Cipher Wikipedia") we can brute force the 26 keys and see if any of the output makes sense.
+
+This can be done manually, but it's a lot quicker to use a tool like [CyberChef](https://cyberchef.org/ "Cyber Chef Website").
+
+Place the cipher text into the input section and select ```ROT13 Brute Force```. Scroll through the ouput section to see the result of applying all 26 keys.
+
+![Caesar Cipher Brute Force](./Level-19-Assets/caesar-cipher.png "Caesar Cipher Brute Force On Cipher Text")
+
+There it is, the key is 25 and the plaintext is ```unusual stuff```.
+
+Using ```unusual stuff``` as the credentials gets us to Level 20.
+
+> Username: unusual
+>
+> Password: stuff
+
+### [Back To Top](#not-pron "Top Of Page")
+
+---
+
+## Level 20
 
 
 

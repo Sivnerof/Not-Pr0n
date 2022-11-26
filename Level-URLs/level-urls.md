@@ -67,3 +67,7 @@
     * http://www.deathball.net/notpron/finale/screen18z.jpg
     * http://www.deathball.net/notpron/finale/screen20.jpg
 19. http://www.deathball.net/notpron/finale/lamp.htm
+20. http://www.deathball.net/notpron/finale/deaf.htm
+    * http://www.deathball.net/notpron/finale/scr34n19.jpg
+    * http://www.deathball.net/notpron/finale/scr34n20.jpg
+21. http://www.deathball.net/notpron/windows/something.php
