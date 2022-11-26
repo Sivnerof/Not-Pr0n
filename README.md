@@ -1266,7 +1266,7 @@ That's where the image rabbit hole ended as far as I could tell. This ended up l
 
 This is the first time the audio file has been used. Listening to it you can hear a piano but it's not a song, there is no melody just random notes.
 
-If you run the linux ```file``` command on [mus4.mp3](./Level-18-Assets/mus4.mp3 "Audio File") you would think it would return "Audio file", but instead it returns the word "data".
+If you run the linux ```file``` command on [mus4.mp3](./Level-18-Assets/mus4.mp3 "Audio File") you'd think it would return "Audio file", but instead it returns the word "data".
 
 Linux ```file``` command on [mus1.mp3](./Audio-And-Metadata/Audio/mus1.mp3):
 
