@@ -1252,7 +1252,6 @@ Won't show this one here. It's an [image of a nude model on beach](./Level-18-As
 
 
 http://www.deathball.net/notpron/finale/screen18y.jpg -
-![screen18y.jpg](./Level-18-Assets/screen18y.jpg "Screen 18y")
 
 * (<abbr title="Not Safe For Work">NSFW</abbr>)
 Won't show this one here. It's a 404 error message, where the 0 (in 404) is instead a [closeup image of a womans right breast](./Level-18-Assets/screen18y.jpg "Womans Right Breast Closeup").
