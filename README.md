@@ -1374,6 +1374,18 @@ Using ```unusual stuff``` as the credentials gets us to Level 20.
 
 ## Level 20
 
+**DISREGARD BELOW, LEVEL UNIFINISHED**
+
+Level URL -
+> http://www.deathball.net/notpron/windows/something.php
+
+Image URL -
+> http://www.deathball.net/notpron/windows/screen20.jpg
+
+Clicking On Area Map -
+> Password Hint: dont mind the lead/pb
+
+http://www.deathball.net/notpron/windows/screen21.jpg
 
 
 ### [Back To Top](#not-pron "Top Of Page")
