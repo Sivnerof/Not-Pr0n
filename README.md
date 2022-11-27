@@ -32,6 +32,8 @@ Notes relating to the individual levels in the not pron internet riddle created 
 
 Read more about this riddle at the [not pron wikipedia](https://en.wikipedia.org/wiki/Notpron "Not Pron Wiki") page.
 
+Fast Company [article about Not Pron](https://www.fastcompany.com/3036599/the-story-behind-the-webs-weirdest-hardest-riddle "Not Pron Article").
+
 ---
 
 ## Starting The Riddle
