@@ -1376,7 +1376,11 @@ Using ```unusual stuff``` as the credentials gets us to Level 20.
 
 ## Level 20
 
-**DISREGARD BELOW, LEVEL UNIFINISHED**
+**Level 20 Unfinished, Disregard Below**
+
+Level 20 includes an image of a bunch of random symbols, letters, mathematical expressions and the Microsoft Windows logo. The area map can be found over the Windows logo.
+
+![Level 20 Image](./Level-20-Assets/screen20.jpg "Image for level 20")
 
 Level URL -
 > http://www.deathball.net/notpron/windows/something.php
@@ -1387,8 +1391,11 @@ Image URL -
 Clicking On Area Map -
 > Password Hint: dont mind the lead/pb
 
-http://www.deathball.net/notpron/windows/screen21.jpg
+Extra Images Found On This Level -
 
+> http://www.deathball.net/notpron/windows/screen21.jpg
+
+![screen21.jpg](./Level-20-Assets/screen21.jpg "screen21")
 
 ### [Back To Top](#not-pron "Top Of Page")
 
